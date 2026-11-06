@@ -1,0 +1,97 @@
+name: Refresh daily IPTV
+
+on:
+  schedule:
+    # 06:23 Asia/Shanghai; GitHub cron is UTC and may be delayed.
+    - cron: '23 22 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'iptv/**'
+      - 'tests/**'
+      - 'config/**'
+      - '.github/workflows/daily.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-iptv-main
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    outputs:
+      result: ${{ steps.refresh.outputs.result }}
+      base_sha: ${{ steps.baseline.outputs.sha }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Record validation baseline
+        id: baseline
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: '3.12'
+      - name: Install decoder
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends ffmpeg
+      - name: Run all tests
+        run: python -m unittest discover -s tests -v
+      - name: Discover and decode public streams
+        id: refresh
+        shell: bash
+        run: |
+          set +e
+          python -m iptv.runner
+          result=$?
+          set -e
+          echo "result=$result" >> "$GITHUB_OUTPUT"
+          if [ "$result" -eq 1 ]; then exit 1; fi
+          cat public/STATUS.md >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: verified-playlists
+          path: public/
+          retention-days: 3
+          if-no-files-found: error
+
+  publish:
+    needs: check
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
+        with:
+          name: verified-playlists
+          path: ${{ runner.temp }}/verified-playlists
+      - name: Verify baseline and install artifacts
+        env:
+          EXPECTED_BASE: ${{ needs.check.outputs.base_sha }}
+        run: python3 -m iptv.deploy --expected-sha "$EXPECTED_BASE" --artifacts "$RUNNER_TEMP/verified-playlists"
+      - name: Commit playlists and diagnostics
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- public
+          if ! git diff --cached --quiet; then
+            git commit -m "Update checked IPTV playlists"
+            git push origin HEAD:main
+          fi
+      - name: Flag retained old playlist
+        if: needs.check.outputs.result == '2'
+        run: |
+          echo '::error::Validation degraded. Previous valid streams were kept; read public/STATUS.md.'
+          exit 1
