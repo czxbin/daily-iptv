@@ -46,3 +46,7 @@ class SatelliteIdsTests(unittest.TestCase):
     def test_known_provincial_ids(self):
         for name in ('ZhejiangTV','BeijingTV','JiangsuTV','ShandongTV','AnhuiTV','HenanTV','JiangxiTV','HubeiTV','SichuanTV','GuangxiTV'):
             self.assertEqual(classify(name,name+'.cn@HD','CN'),'卫视')
+
+class CCTVRegionTests(unittest.TestCase):
+    def test_us_community_tv_is_not_china_central_television(self):
+        self.assertEqual(classify('CC-TV (720p)','CCTV.us@SD','US'),'海外')

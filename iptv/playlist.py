@@ -36,7 +36,7 @@ def valid_url_shape(url):
 def classify(name, tvg_id, region):
     if region.upper() in ('HK', 'MO', 'TW'):
         return '港澳台'
-    if re.search(r'cctv|央视|中央电视', name + tvg_id, re.I):
+    if region.upper() == 'CN' and re.search(r'cctv|央视|中央电视', name + tvg_id, re.I):
         return '央视'
     if region.upper() == 'CN' and (re.search(r'卫视|衛視|satellite', name + tvg_id, re.I) or tvg_id.split('.')[0] in {'HunanTV','DragonTV','DragonTVInternational','SoutheastTV','ShenzhenTV','ZhejiangTV','BeijingTV','JiangsuTV','ShandongTV','AnhuiTV','HenanTV','JiangxiTV','HubeiTV','SichuanTV','GuangxiTV','GuangdongTV','HebeiTV','HainanTV','HeilongjiangTV','JilinTV','LiaoningTV','GansuTV','QinghaiTV','NingxiaTV','ShaanxiTV','ShanxiTV','ChongqingTV','GuizhouTV','YunnanTV','TibetTV','XinjiangTV','InnerMongoliaTV','TianjinTV','XiamenStarTV','StraitTV'}):
         return '卫视'
