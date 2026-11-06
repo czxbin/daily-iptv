@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "checked_at_utc": "2026-11-06T08:59:02Z",
-  "last_success_utc": "2026-11-06T08:59:02Z",
+  "checked_at_utc": "2026-11-06T09:04:46Z",
+  "last_success_utc": "2026-11-06T09:04:46Z",
   "published": true,
   "stale": false,
   "hold_reason": "",
   "discovered_unique": 2889,
-  "tested": 329,
-  "passed": 138,
-  "playlist_count": 138,
+  "tested": 328,
+  "passed": 141,
+  "playlist_count": 141,
   "category_counts": {
     "其他中文": 13,
     "卫视": 4,
-    "央视": 29,
-    "海外": 76,
+    "央视": 30,
+    "海外": 78,
     "港澳台": 16
   },
   "published_category_counts": {
-    "央视": 29,
+    "央视": 30,
     "卫视": 4,
     "港澳台": 16,
-    "海外": 76,
+    "海外": 78,
     "其他中文": 13
   },
   "category_status": {
     "央视": {
-      "current_passed": 29,
-      "playlist_count": 29,
-      "last_success_utc": "2026-11-06T08:59:02Z",
+      "current_passed": 30,
+      "playlist_count": 30,
+      "last_success_utc": "2026-11-06T09:04:46Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -35,7 +35,7 @@
     "卫视": {
       "current_passed": 4,
       "playlist_count": 4,
-      "last_success_utc": "2026-11-06T08:59:02Z",
+      "last_success_utc": "2026-11-06T09:04:46Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -43,15 +43,15 @@
     "港澳台": {
       "current_passed": 16,
       "playlist_count": 16,
-      "last_success_utc": "2026-11-06T08:59:02Z",
+      "last_success_utc": "2026-11-06T09:04:46Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "海外": {
-      "current_passed": 76,
-      "playlist_count": 76,
-      "last_success_utc": "2026-11-06T08:59:02Z",
+      "current_passed": 78,
+      "playlist_count": 78,
+      "last_success_utc": "2026-11-06T09:04:46Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -59,7 +59,7 @@
     "其他中文": {
       "current_passed": 13,
       "playlist_count": 13,
-      "last_success_utc": "2026-11-06T08:59:02Z",
+      "last_success_utc": "2026-11-06T09:04:46Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -68,13 +68,13 @@
   "missing_categories": [],
   "failure_reasons": {
     "network_timeout": 67,
-    "http_403": 40,
+    "http_403": 38,
     "not_supported_media": 9,
     "http_567": 1,
     "dns_error": 12,
     "http_500": 2,
-    "http_404": 15,
-    "network_error": 7,
+    "http_404": 14,
+    "network_error": 6,
     "encrypted_stream_skipped": 35,
     "http_400": 2,
     "video_decode_failed": 1

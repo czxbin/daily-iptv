@@ -1,12 +1,12 @@
 [
   {
-    "name": "CC-TV (720p)",
-    "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8",
-    "tvg_id": "CCTV.us@SD",
-    "logo": "",
+    "name": "CCTV+ 2 (600p) [Not 24/7]",
+    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
+    "tvg_id": "CCTVPlus2.cn@SD",
+    "logo": "https://i.imgur.com/qSg862A.png",
     "category": "央视",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
@@ -127,6 +127,16 @@
     "category": "央视",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "CCTV-6 HD (1080p)",
+    "url": "http://69.30.245.50/live/cctv6.m3u8",
+    "tvg_id": "CCTV6.cn@HD",
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "category": "央视",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
@@ -730,6 +740,16 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
+    "name": "Discovery Channel (United States) (1080p) [Geo-blocked]",
+    "url": "http://212.5.144.156:8080/discovery/index.m3u8",
+    "tvg_id": "DiscoveryChannel.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
     "name": "Dukh Nivaran (720p) [Not 24/7]",
     "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
     "tvg_id": "DukhNivaran.ca@SD",
@@ -1144,6 +1164,16 @@
     "url": "https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8",
     "tvg_id": "TED.us@SD",
     "logo": "https://i.imgur.com/KeIhwNP.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "TV Land Drama",
+    "url": "https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8",
+    "tvg_id": "TVLandDrama.us@SD",
+    "logo": "https://i.imgur.com/y1rXIAS.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
