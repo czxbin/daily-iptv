@@ -1,10 +1,8 @@
 #EXTM3U
-# Generated UTC: 2026-11-07T00:56:32Z
+# Generated UTC: 2026-11-07T02:05:32Z
 # Validation: one locally decoded video frame; playback depends on region and network.
 #EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="央视",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="央视",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1 (720p)
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="央视",CCTV-10 (720p)
@@ -69,8 +67,6 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jb
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="港澳台",Dali TV (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="港澳台",Discovery Asia Taiwan (1080p)
-http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Good2.tw@SD" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="港澳台",Good 2 (720p)
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="GoodTV.tw@SD" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="港澳台",Good TV (Taiwan) (720p) [Not 24/7]
@@ -81,8 +77,6 @@ https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳台",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="港澳台",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="港澳台",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TTVNews.tw@SD" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="港澳台",TTV News
@@ -107,6 +101,8 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="海外",Allgau TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="海外",American Horrors (480p)
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="海外",Anger Management Channel (1080p)
 https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="海外",BATV Educational Channel (1080p)
@@ -117,8 +113,8 @@ https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
 https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV36.us@SD" tvg-logo="https://i.imgur.com/43EpWsD.png" group-title="海外",CAN TV36 (1080p)
 https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="海外",CBS Sports HQ (720p)
-https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD" tvg-logo="https://i.imgur.com/0e1kSGX.png" group-title="海外",CBS News Sacramento (720p)
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel20.us@SD" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="海外",CMAP Channel 20 (720p)
 https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="海外",CNA (Singapore) (1080p) [Geo-blocked]
@@ -155,8 +151,6 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="HisGloryTV.us@SD" tvg-logo="https://i.imgur.com/VTcdAJj.jpeg" group-title="海外",His Glory TV (1080p)
 https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8
-#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="海外",History (United States) (720p)
-http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-id="HobbyMaker.uk@SD" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="海外",Hobby Maker (720p)
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="海外",Hyundai Home Shopping + Shop (720p)
@@ -291,3 +285,7 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="其他中文",Xinjiang TV 3
 http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/ycsxggpd.jpg" group-title="其他中文",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/ycsxlysh.jpg" group-title="其他中文",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8

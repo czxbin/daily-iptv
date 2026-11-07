@@ -10,16 +10,6 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "CCTV+ 2 (600p) [Not 24/7]",
-    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
-    "tvg_id": "CCTVPlus2.cn@SD",
-    "logo": "https://i.imgur.com/qSg862A.png",
-    "category": "央视",
-    "region": "CN",
-    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
     "name": "CCTV-1 (720p)",
     "url": "http://74.91.26.218:82/live/cctv1hd.m3u8",
     "tvg_id": "CCTV1.cn@SD",
@@ -340,16 +330,6 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Discovery Asia Taiwan (1080p)",
-    "url": "http://125.227.210.55:1004/VideoInput/play.ts",
-    "tvg_id": "DiscoveryAsiaTaiwan.tw@SD",
-    "logo": "https://i.imgur.com/foLICwL.png",
-    "category": "港澳台",
-    "region": "TW",
-    "source": "https://iptv-org.github.io/iptv/countries/tw.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
     "name": "Good 2 (720p)",
     "url": "https://live.streamingfast.net/osmflivech2.m3u8",
     "tvg_id": "Good2.tw@SD",
@@ -394,16 +374,6 @@
     "url": "https://petclub-samsungaus.amagi.tv/playlist.m3u8",
     "tvg_id": "PetClubTV.hk@SD",
     "logo": "https://i.imgur.com/ykPNNwQ.png",
-    "category": "港澳台",
-    "region": "HK",
-    "source": "https://iptv-org.github.io/iptv/countries/hk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "RTHK TV 31 (1080p) [Geo-blocked]",
-    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
-    "tvg_id": "RTHKTV31.hk@SD",
-    "logo": "https://i.imgur.com/kf818kM.png",
     "category": "港澳台",
     "region": "HK",
     "source": "https://iptv-org.github.io/iptv/countries/hk.m3u",
@@ -530,6 +500,16 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
+    "name": "American Horrors (480p)",
+    "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+    "tvg_id": "AmericanHorrors.us@SD",
+    "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
     "name": "Anger Management Channel (1080p)",
     "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
     "tvg_id": "AngerManagementChannel.us@SD",
@@ -580,10 +560,10 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "CBS Sports HQ (720p)",
-    "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
-    "tvg_id": "CBSSportsHQ.us@SD",
-    "logo": "https://i.imgur.com/q8BENJg.png",
+    "name": "CBS News Sacramento (720p)",
+    "url": "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8",
+    "tvg_id": "CBSNewsSacramento.us@SD",
+    "logo": "https://i.imgur.com/0e1kSGX.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -764,16 +744,6 @@
     "url": "https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8",
     "tvg_id": "HisGloryTV.us@SD",
     "logo": "https://i.imgur.com/VTcdAJj.jpeg",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "History (United States) (720p)",
-    "url": "http://212.5.144.156:8080/history/index.m3u8",
-    "tvg_id": "History.us@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -1444,6 +1414,26 @@
     "url": "http://110.153.180.106:55555/out_2/index.m3u8",
     "tvg_id": "XinjiangTV3.cn@SD",
     "logo": "https://i.imgur.com/l8S5qQB.png",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Yichang Sanxia General Channel",
+    "url": "https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8",
+    "tvg_id": "YichangSanxiaGeneralChannel.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/ycsxggpd.jpg",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Yichang Sanxia Travel & Life Channel",
+    "url": "https://liveplay.ycrmt.cn/sxgd/lysh.m3u8",
+    "tvg_id": "YichangSanxiaTravelLifeChannel.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/ycsxlysh.jpg",
     "category": "其他中文",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",

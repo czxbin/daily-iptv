@@ -12,13 +12,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3716,
+    "elapsed_ms": 3428,
     "media": {
       "codec": "h264",
       "width": 720,
       "height": 576,
       "decoded_frames": 1,
-      "sample_bytes": 269780
+      "sample_bytes": 269404
     }
   },
   {
@@ -34,7 +34,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 7724,
+    "elapsed_ms": 7647,
     "media": {}
   },
   {
@@ -50,7 +50,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5081,
+    "elapsed_ms": 5083,
     "media": {}
   },
   {
@@ -66,7 +66,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5078,
+    "elapsed_ms": 5091,
     "media": {}
   },
   {
@@ -82,7 +82,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5080,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -98,13 +98,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2567,
+    "elapsed_ms": 1270,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 878712
+      "sample_bytes": 844872
     }
   },
   {
@@ -120,13 +120,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1188,
+    "elapsed_ms": 1099,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 778884
+      "sample_bytes": 752940
     }
   },
   {
@@ -142,7 +142,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5096,
+    "elapsed_ms": 5079,
     "media": {}
   },
   {
@@ -158,7 +158,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5078,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -174,7 +174,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 1661,
+    "elapsed_ms": 1670,
     "media": {}
   },
   {
@@ -190,7 +190,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 18001,
+    "elapsed_ms": 18000,
     "media": {}
   },
   {
@@ -206,13 +206,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1682,
+    "elapsed_ms": 1071,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 767604
+      "sample_bytes": 773244
     }
   },
   {
@@ -228,7 +228,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5727,
+    "elapsed_ms": 5511,
     "media": {}
   },
   {
@@ -244,7 +244,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5085,
+    "elapsed_ms": 5075,
     "media": {}
   },
   {
@@ -260,7 +260,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5602,
+    "elapsed_ms": 5645,
     "media": {}
   },
   {
@@ -276,7 +276,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5085,
+    "elapsed_ms": 5080,
     "media": {}
   },
   {
@@ -292,7 +292,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5079,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -308,13 +308,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4307,
+    "elapsed_ms": 6366,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 595020
+      "sample_bytes": 973276
     }
   },
   {
@@ -330,13 +330,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4561,
+    "elapsed_ms": 5094,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 615324
+      "sample_bytes": 646720
     }
   },
   {
@@ -352,13 +352,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4344,
+    "elapsed_ms": 5069,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 387656
+      "sample_bytes": 562496
     }
   },
   {
@@ -374,7 +374,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 6125,
+    "elapsed_ms": 6144,
     "media": {}
   },
   {
@@ -390,7 +390,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5078,
+    "elapsed_ms": 5079,
     "media": {}
   },
   {
@@ -406,7 +406,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 1259,
+    "elapsed_ms": 934,
     "media": {}
   },
   {
@@ -422,7 +422,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 574,
+    "elapsed_ms": 477,
     "media": {}
   },
   {
@@ -438,7 +438,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5492,
+    "elapsed_ms": 5522,
     "media": {}
   },
   {
@@ -454,7 +454,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5083,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -470,7 +470,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5493,
+    "elapsed_ms": 5441,
     "media": {}
   },
   {
@@ -486,7 +486,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5496,
+    "elapsed_ms": 5444,
     "media": {}
   },
   {
@@ -502,7 +502,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 2046,
+    "elapsed_ms": 2117,
     "media": {}
   },
   {
@@ -518,7 +518,7 @@
     },
     "ok": false,
     "reason": "http_567",
-    "elapsed_ms": 1095,
+    "elapsed_ms": 1007,
     "media": {}
   },
   {
@@ -534,7 +534,7 @@
     },
     "ok": false,
     "reason": "http_567",
-    "elapsed_ms": 2210,
+    "elapsed_ms": 1006,
     "media": {}
   },
   {
@@ -550,7 +550,7 @@
     },
     "ok": false,
     "reason": "http_567",
-    "elapsed_ms": 2801,
+    "elapsed_ms": 1596,
     "media": {}
   },
   {
@@ -566,7 +566,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5080,
+    "elapsed_ms": 5079,
     "media": {}
   },
   {
@@ -582,7 +582,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5081,
+    "elapsed_ms": 5105,
     "media": {}
   },
   {
@@ -598,7 +598,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5085,
+    "elapsed_ms": 5076,
     "media": {}
   },
   {
@@ -614,7 +614,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5101,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -630,7 +630,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5116,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -646,7 +646,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 833,
+    "elapsed_ms": 519,
     "media": {}
   },
   {
@@ -662,7 +662,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 168,
+    "elapsed_ms": 109,
     "media": {}
   },
   {
@@ -678,13 +678,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3176,
+    "elapsed_ms": 2688,
     "media": {
       "codec": "h264",
       "width": 720,
       "height": 576,
       "decoded_frames": 1,
-      "sample_bytes": 249288
+      "sample_bytes": 488612
     }
   },
   {
@@ -700,13 +700,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 5030,
+    "elapsed_ms": 4595,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3104256
+      "sample_bytes": 6291456
     }
   },
   {
@@ -722,13 +722,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1069,
+    "elapsed_ms": 2367,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 824568
+      "sample_bytes": 855024
     }
   },
   {
@@ -744,7 +744,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 1137,
+    "elapsed_ms": 1612,
     "media": {}
   },
   {
@@ -760,7 +760,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5911,
+    "elapsed_ms": 5722,
     "media": {}
   },
   {
@@ -776,13 +776,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4827,
+    "elapsed_ms": 4322,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 5747912
+      "sample_bytes": 5655416
     }
   },
   {
@@ -798,13 +798,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4626,
+    "elapsed_ms": 4579,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 5655040
+      "sample_bytes": 5645076
     }
   },
   {
@@ -820,7 +820,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5083,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -834,10 +834,16 @@
       "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": false,
-    "reason": "network_timeout",
-    "elapsed_ms": 5095,
-    "media": {}
+    "ok": true,
+    "reason": "decoded_video_frame",
+    "elapsed_ms": 2868,
+    "media": {
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "decoded_frames": 1,
+      "sample_bytes": 3461080
+    }
   },
   {
     "channel": {
@@ -850,10 +856,16 @@
       "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": false,
-    "reason": "network_timeout",
-    "elapsed_ms": 5697,
-    "media": {}
+    "ok": true,
+    "reason": "decoded_video_frame",
+    "elapsed_ms": 2814,
+    "media": {
+      "codec": "h264",
+      "width": 1920,
+      "height": 1080,
+      "decoded_frames": 1,
+      "sample_bytes": 1312616
+    }
   },
   {
     "channel": {
@@ -868,7 +880,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5076,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -884,13 +896,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4045,
+    "elapsed_ms": 5329,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1232152
+      "sample_bytes": 2451144
     }
   },
   {
@@ -906,7 +918,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 515,
+    "elapsed_ms": 446,
     "media": {}
   },
   {
@@ -922,7 +934,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5780,
+    "elapsed_ms": 5752,
     "media": {}
   },
   {
@@ -938,7 +950,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5079,
+    "elapsed_ms": 5087,
     "media": {}
   },
   {
@@ -954,7 +966,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 940,
+    "elapsed_ms": 943,
     "media": {}
   },
   {
@@ -970,13 +982,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 757,
+    "elapsed_ms": 556,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1348524
+      "sample_bytes": 1391012
     }
   },
   {
@@ -992,7 +1004,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5444,
+    "elapsed_ms": 5498,
     "media": {}
   },
   {
@@ -1008,13 +1020,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4321,
+    "elapsed_ms": 3764,
     "media": {
       "codec": "h264",
       "width": 3840,
       "height": 2160,
       "decoded_frames": 1,
-      "sample_bytes": 3581776
+      "sample_bytes": 3448108
     }
   },
   {
@@ -1030,7 +1042,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5073,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -1046,13 +1058,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2611,
+    "elapsed_ms": 2805,
     "media": {
       "codec": "hevc",
       "width": 3840,
       "height": 2160,
       "decoded_frames": 1,
-      "sample_bytes": 1105628
+      "sample_bytes": 1107132
     }
   },
   {
@@ -1068,7 +1080,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5070,
+    "elapsed_ms": 5080,
     "media": {}
   },
   {
@@ -1084,7 +1096,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5072,
+    "elapsed_ms": 5102,
     "media": {}
   },
   {
@@ -1100,7 +1112,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5075,
+    "elapsed_ms": 5082,
     "media": {}
   },
   {
@@ -1116,7 +1128,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5078,
+    "elapsed_ms": 5086,
     "media": {}
   },
   {
@@ -1132,7 +1144,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5074,
+    "elapsed_ms": 5087,
     "media": {}
   },
   {
@@ -1148,7 +1160,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5073,
+    "elapsed_ms": 5080,
     "media": {}
   },
   {
@@ -1164,7 +1176,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5074,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -1180,7 +1192,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 2125,
+    "elapsed_ms": 2650,
     "media": {}
   },
   {
@@ -1196,7 +1208,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5073,
+    "elapsed_ms": 5082,
     "media": {}
   },
   {
@@ -1212,7 +1224,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5090,
+    "elapsed_ms": 5080,
     "media": {}
   },
   {
@@ -1228,7 +1240,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5070,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -1244,7 +1256,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 6361,
+    "elapsed_ms": 6747,
     "media": {}
   },
   {
@@ -1260,7 +1272,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5074,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -1276,13 +1288,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3362,
+    "elapsed_ms": 3145,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 636944
+      "sample_bytes": 597276
     }
   },
   {
@@ -1296,16 +1308,10 @@
       "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": true,
-    "reason": "decoded_video_frame",
-    "elapsed_ms": 3117,
-    "media": {
-      "codec": "h264",
-      "width": 426,
-      "height": 240,
-      "decoded_frames": 1,
-      "sample_bytes": 639012
-    }
+    "ok": false,
+    "reason": "http_404",
+    "elapsed_ms": 2186,
+    "media": {}
   },
   {
     "channel": {
@@ -1320,13 +1326,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1031,
+    "elapsed_ms": 1110,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1277460
+      "sample_bytes": 1904816
     }
   },
   {
@@ -1358,13 +1364,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1330,
+    "elapsed_ms": 1442,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 3374976
+      "sample_bytes": 2069880
     }
   },
   {
@@ -1380,13 +1386,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1183,
+    "elapsed_ms": 1202,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1271632
+      "sample_bytes": 1616988
     }
   },
   {
@@ -1402,13 +1408,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1013,
+    "elapsed_ms": 1014,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1030616
+      "sample_bytes": 834156
     }
   },
   {
@@ -1424,13 +1430,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1187,
+    "elapsed_ms": 1323,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 5195380
+      "sample_bytes": 3349596
     }
   },
   {
@@ -1446,7 +1452,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 1445,
+    "elapsed_ms": 1258,
     "media": {}
   },
   {
@@ -1462,13 +1468,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1484,
+    "elapsed_ms": 1543,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4726508
+      "sample_bytes": 2104848
     }
   },
   {
@@ -1484,13 +1490,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1159,
+    "elapsed_ms": 1262,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 2699116
+      "sample_bytes": 4820132
     }
   },
   {
@@ -1506,7 +1512,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 176,
+    "elapsed_ms": 219,
     "media": {}
   },
   {
@@ -1522,13 +1528,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1152,
+    "elapsed_ms": 1145,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3822604
+      "sample_bytes": 4808100
     }
   },
   {
@@ -1544,13 +1550,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1107,
+    "elapsed_ms": 1072,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1702340
+      "sample_bytes": 1185528
     }
   },
   {
@@ -1566,13 +1572,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1096,
+    "elapsed_ms": 1143,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 2589136
+      "sample_bytes": 2779956
     }
   },
   {
@@ -1588,7 +1594,7 @@
     },
     "ok": false,
     "reason": "network_error",
-    "elapsed_ms": 697,
+    "elapsed_ms": 440,
     "media": {}
   },
   {
@@ -1604,13 +1610,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1215,
+    "elapsed_ms": 1122,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 4402020
+      "sample_bytes": 1793332
     }
   },
   {
@@ -1626,13 +1632,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2546,
+    "elapsed_ms": 2757,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1031932
+      "sample_bytes": 1022344
     }
   },
   {
@@ -1648,7 +1654,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 342,
+    "elapsed_ms": 373,
     "media": {}
   },
   {
@@ -1664,7 +1670,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 3794,
+    "elapsed_ms": 4006,
     "media": {}
   },
   {
@@ -1680,13 +1686,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 970,
+    "elapsed_ms": 971,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 894128
+      "sample_bytes": 796932
     }
   },
   {
@@ -1702,7 +1708,7 @@
     },
     "ok": false,
     "reason": "http_500",
-    "elapsed_ms": 695,
+    "elapsed_ms": 738,
     "media": {}
   },
   {
@@ -1718,13 +1724,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1450,
+    "elapsed_ms": 1390,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1372964
+      "sample_bytes": 901084
     }
   },
   {
@@ -1740,13 +1746,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1434,
+    "elapsed_ms": 1399,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1206020
+      "sample_bytes": 758768
     }
   },
   {
@@ -1762,13 +1768,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1714,
+    "elapsed_ms": 1530,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 5208916
+      "sample_bytes": 5143868
     }
   },
   {
@@ -1784,13 +1790,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3166,
+    "elapsed_ms": 3357,
     "media": {
       "codec": "h264",
       "width": 720,
       "height": 576,
       "decoded_frames": 1,
-      "sample_bytes": 168636
+      "sample_bytes": 166944
     }
   },
   {
@@ -1806,13 +1812,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3129,
+    "elapsed_ms": 1351,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4100280
+      "sample_bytes": 4094076
     }
   },
   {
@@ -1828,7 +1834,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5175,
+    "elapsed_ms": 5181,
     "media": {}
   },
   {
@@ -1844,13 +1850,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 12198,
+    "elapsed_ms": 11230,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4860364
+      "sample_bytes": 4539072
     }
   },
   {
@@ -1866,7 +1872,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5176,
+    "elapsed_ms": 5253,
     "media": {}
   },
   {
@@ -1882,13 +1888,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3899,
+    "elapsed_ms": 1130,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4098212
+      "sample_bytes": 4040496
     }
   },
   {
@@ -1904,13 +1910,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2033,
+    "elapsed_ms": 1170,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3862648
+      "sample_bytes": 4415556
     }
   },
   {
@@ -1926,13 +1932,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1105,
+    "elapsed_ms": 1162,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4651120
+      "sample_bytes": 3898932
     }
   },
   {
@@ -1948,13 +1954,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1468,
+    "elapsed_ms": 3617,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3720144
+      "sample_bytes": 4996288
     }
   },
   {
@@ -1970,13 +1976,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1703,
+    "elapsed_ms": 2104,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4908868
+      "sample_bytes": 2610004
     }
   },
   {
@@ -1992,13 +1998,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1109,
+    "elapsed_ms": 1091,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3136404
+      "sample_bytes": 4263276
     }
   },
   {
@@ -2014,13 +2020,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1499,
+    "elapsed_ms": 1734,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4231128
+      "sample_bytes": 5292764
     }
   },
   {
@@ -2036,7 +2042,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5420,
+    "elapsed_ms": 5333,
     "media": {}
   },
   {
@@ -2052,13 +2058,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1567,
+    "elapsed_ms": 1072,
     "media": {
       "codec": "h264",
       "width": 854,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 174165
+      "sample_bytes": 62532
     }
   },
   {
@@ -2074,13 +2080,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4096,
+    "elapsed_ms": 4008,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1561152
+      "sample_bytes": 1707228
     }
   },
   {
@@ -2096,13 +2102,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3022,
+    "elapsed_ms": 4526,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1986032
+      "sample_bytes": 1685796
     }
   },
   {
@@ -2118,13 +2124,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3420,
+    "elapsed_ms": 4519,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 158672
+      "sample_bytes": 1838264
     }
   },
   {
@@ -2140,7 +2146,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1463,
+    "elapsed_ms": 1363,
     "media": {}
   },
   {
@@ -2156,7 +2162,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 767,
+    "elapsed_ms": 530,
     "media": {}
   },
   {
@@ -2172,7 +2178,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 695,
+    "elapsed_ms": 748,
     "media": {}
   },
   {
@@ -2204,7 +2210,7 @@
     },
     "ok": false,
     "reason": "no_video_stream",
-    "elapsed_ms": 2850,
+    "elapsed_ms": 2981,
     "media": {}
   },
   {
@@ -2220,13 +2226,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1628,
+    "elapsed_ms": 1970,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 3349784
+      "sample_bytes": 3344520
     }
   },
   {
@@ -2242,13 +2248,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2886,
+    "elapsed_ms": 3046,
     "media": {
       "codec": "h264",
       "width": 854,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 762152
+      "sample_bytes": 748052
     }
   },
   {
@@ -2264,13 +2270,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3822,
+    "elapsed_ms": 3301,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 637132
+      "sample_bytes": 578100
     }
   },
   {
@@ -2284,10 +2290,16 @@
       "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": false,
-    "reason": "network_timeout",
-    "elapsed_ms": 5086,
-    "media": {}
+    "ok": true,
+    "reason": "decoded_video_frame",
+    "elapsed_ms": 578,
+    "media": {
+      "codec": "h264",
+      "width": 576,
+      "height": 446,
+      "decoded_frames": 1,
+      "sample_bytes": 917628
+    }
   },
   {
     "channel": {
@@ -2302,13 +2314,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1872,
+    "elapsed_ms": 1840,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 582988
+      "sample_bytes": 589944
     }
   },
   {
@@ -2324,7 +2336,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1289,
+    "elapsed_ms": 1257,
     "media": {}
   },
   {
@@ -2340,13 +2352,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1373,
+    "elapsed_ms": 1431,
     "media": {
       "codec": "h264",
       "width": 416,
       "height": 234,
       "decoded_frames": 1,
-      "sample_bytes": 290836
+      "sample_bytes": 291024
     }
   },
   {
@@ -2362,7 +2374,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 222,
+    "elapsed_ms": 163,
     "media": {}
   },
   {
@@ -2378,13 +2390,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 892,
+    "elapsed_ms": 830,
     "media": {
       "codec": "h264",
       "width": 384,
       "height": 216,
       "decoded_frames": 1,
-      "sample_bytes": 319224
+      "sample_bytes": 336144
     }
   },
   {
@@ -2400,7 +2412,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 189,
+    "elapsed_ms": 118,
     "media": {}
   },
   {
@@ -2416,7 +2428,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 237,
+    "elapsed_ms": 178,
     "media": {}
   },
   {
@@ -2432,7 +2444,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 254,
+    "elapsed_ms": 176,
     "media": {}
   },
   {
@@ -2448,7 +2460,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 1408,
+    "elapsed_ms": 1391,
     "media": {}
   },
   {
@@ -2464,7 +2476,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1483,
+    "elapsed_ms": 1552,
     "media": {}
   },
   {
@@ -2480,7 +2492,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1364,
+    "elapsed_ms": 1509,
     "media": {}
   },
   {
@@ -2496,13 +2508,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1375,
+    "elapsed_ms": 1714,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 459284
+      "sample_bytes": 459660
     }
   },
   {
@@ -2518,7 +2530,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 652,
+    "elapsed_ms": 459,
     "media": {}
   },
   {
@@ -2534,13 +2546,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2563,
+    "elapsed_ms": 2586,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3569932
+      "sample_bytes": 3593056
     }
   },
   {
@@ -2554,10 +2566,16 @@
       "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": false,
-    "reason": "not_supported_media",
-    "elapsed_ms": 814,
-    "media": {}
+    "ok": true,
+    "reason": "decoded_video_frame",
+    "elapsed_ms": 802,
+    "media": {
+      "codec": "h264",
+      "width": 320,
+      "height": 180,
+      "decoded_frames": 1,
+      "sample_bytes": 48504
+    }
   },
   {
     "channel": {
@@ -2570,16 +2588,10 @@
       "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": true,
-    "reason": "decoded_video_frame",
-    "elapsed_ms": 1691,
-    "media": {
-      "codec": "h264",
-      "width": 426,
-      "height": 240,
-      "decoded_frames": 1,
-      "sample_bytes": 202476
-    }
+    "ok": false,
+    "reason": "encrypted_stream_skipped",
+    "elapsed_ms": 1427,
+    "media": {}
   },
   {
     "channel": {
@@ -2594,13 +2606,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1198,
+    "elapsed_ms": 1280,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 2216332
+      "sample_bytes": 2268408
     }
   },
   {
@@ -2616,13 +2628,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 724,
+    "elapsed_ms": 953,
     "media": {
       "codec": "h264",
       "width": 480,
       "height": 270,
       "decoded_frames": 1,
-      "sample_bytes": 300048
+      "sample_bytes": 283880
     }
   },
   {
@@ -2638,13 +2650,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1250,
+    "elapsed_ms": 1512,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 740532
+      "sample_bytes": 709324
     }
   },
   {
@@ -2660,13 +2672,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2152,
+    "elapsed_ms": 1544,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 669656
+      "sample_bytes": 718348
     }
   },
   {
@@ -2682,13 +2694,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1342,
+    "elapsed_ms": 1454,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 917252
+      "sample_bytes": 920636
     }
   },
   {
@@ -2704,13 +2716,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1462,
+    "elapsed_ms": 1091,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 209432
+      "sample_bytes": 198340
     }
   },
   {
@@ -2726,7 +2738,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1337,
+    "elapsed_ms": 1325,
     "media": {}
   },
   {
@@ -2742,7 +2754,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1272,
+    "elapsed_ms": 1316,
     "media": {}
   },
   {
@@ -2758,13 +2770,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2775,
+    "elapsed_ms": 3702,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 527904
+      "sample_bytes": 662512
     }
   },
   {
@@ -2780,7 +2792,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1401,
+    "elapsed_ms": 1297,
     "media": {}
   },
   {
@@ -2796,7 +2808,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 211,
+    "elapsed_ms": 232,
     "media": {}
   },
   {
@@ -2812,7 +2824,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1493,
+    "elapsed_ms": 1551,
     "media": {}
   },
   {
@@ -2828,13 +2840,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2638,
+    "elapsed_ms": 2555,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1467904
+      "sample_bytes": 1549496
     }
   },
   {
@@ -2850,13 +2862,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1147,
+    "elapsed_ms": 1124,
     "media": {
       "codec": "h264",
       "width": 416,
       "height": 234,
       "decoded_frames": 1,
-      "sample_bytes": 299484
+      "sample_bytes": 302116
     }
   },
   {
@@ -2872,13 +2884,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1448,
+    "elapsed_ms": 1613,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 2974912
+      "sample_bytes": 2436480
     }
   },
   {
@@ -2894,7 +2906,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5133,
+    "elapsed_ms": 5184,
     "media": {}
   },
   {
@@ -2910,7 +2922,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1229,
+    "elapsed_ms": 1295,
     "media": {}
   },
   {
@@ -2926,7 +2938,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 169,
+    "elapsed_ms": 178,
     "media": {}
   },
   {
@@ -2942,13 +2954,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2429,
+    "elapsed_ms": 2625,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 4451840
+      "sample_bytes": 4214208
     }
   },
   {
@@ -2964,13 +2976,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1179,
+    "elapsed_ms": 1064,
     "media": {
       "codec": "h264",
       "width": 384,
       "height": 216,
       "decoded_frames": 1,
-      "sample_bytes": 334452
+      "sample_bytes": 320728
     }
   },
   {
@@ -2986,7 +2998,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 721,
+    "elapsed_ms": 774,
     "media": {}
   },
   {
@@ -3002,7 +3014,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5279,
+    "elapsed_ms": 5185,
     "media": {}
   },
   {
@@ -3018,13 +3030,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1979,
+    "elapsed_ms": 2076,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1640864
+      "sample_bytes": 1499864
     }
   },
   {
@@ -3040,13 +3052,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 5117,
+    "elapsed_ms": 4446,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 787156
+      "sample_bytes": 772868
     }
   },
   {
@@ -3062,13 +3074,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1115,
+    "elapsed_ms": 955,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 302492
+      "sample_bytes": 309824
     }
   },
   {
@@ -3084,7 +3096,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1295,
+    "elapsed_ms": 1419,
     "media": {}
   },
   {
@@ -3100,7 +3112,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 248,
+    "elapsed_ms": 176,
     "media": {}
   },
   {
@@ -3116,7 +3128,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 179,
+    "elapsed_ms": 145,
     "media": {}
   },
   {
@@ -3132,13 +3144,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2224,
+    "elapsed_ms": 2397,
     "media": {
       "codec": "h264",
       "width": 1024,
       "height": 576,
       "decoded_frames": 1,
-      "sample_bytes": 128216
+      "sample_bytes": 314336
     }
   },
   {
@@ -3154,13 +3166,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2297,
+    "elapsed_ms": 2728,
     "media": {
       "codec": "h264",
       "width": 768,
       "height": 432,
       "decoded_frames": 1,
-      "sample_bytes": 114680
+      "sample_bytes": 283692
     }
   },
   {
@@ -3176,13 +3188,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1484,
+    "elapsed_ms": 1405,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 29680
+      "sample_bytes": 79868
     }
   },
   {
@@ -3196,16 +3208,10 @@
       "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": true,
-    "reason": "decoded_video_frame",
-    "elapsed_ms": 12666,
-    "media": {
-      "codec": "hevc",
-      "width": 1920,
-      "height": 1080,
-      "decoded_frames": 1,
-      "sample_bytes": 755008
-    }
+    "ok": false,
+    "reason": "http_403",
+    "elapsed_ms": 436,
+    "media": {}
   },
   {
     "channel": {
@@ -3220,13 +3226,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2438,
+    "elapsed_ms": 2563,
     "media": {
       "codec": "h264",
       "width": 416,
       "height": 234,
       "decoded_frames": 1,
-      "sample_bytes": 79900
+      "sample_bytes": 95316
     }
   },
   {
@@ -3242,7 +3248,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1393,
+    "elapsed_ms": 1556,
     "media": {}
   },
   {
@@ -3258,13 +3264,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4780,
+    "elapsed_ms": 3782,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 852580
+      "sample_bytes": 860100
     }
   },
   {
@@ -3280,13 +3286,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 775,
+    "elapsed_ms": 975,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 1212036
+      "sample_bytes": 1217112
     }
   },
   {
@@ -3302,7 +3308,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5213,
+    "elapsed_ms": 5225,
     "media": {}
   },
   {
@@ -3318,7 +3324,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5651,
+    "elapsed_ms": 5634,
     "media": {}
   },
   {
@@ -3334,13 +3340,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1027,
+    "elapsed_ms": 993,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 683192
+      "sample_bytes": 749180
     }
   },
   {
@@ -3356,13 +3362,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 10532,
+    "elapsed_ms": 10227,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 5508776
+      "sample_bytes": 5354616
     }
   },
   {
@@ -3378,13 +3384,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2255,
+    "elapsed_ms": 2514,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 742036
+      "sample_bytes": 668716
     }
   },
   {
@@ -3400,7 +3406,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 464,
+    "elapsed_ms": 366,
     "media": {}
   },
   {
@@ -3416,13 +3422,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2598,
+    "elapsed_ms": 3011,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 857280
+      "sample_bytes": 877772
     }
   },
   {
@@ -3438,13 +3444,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1526,
+    "elapsed_ms": 1546,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4777456
+      "sample_bytes": 4794188
     }
   },
   {
@@ -3460,13 +3466,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1536,
+    "elapsed_ms": 824,
     "media": {
       "codec": "h264",
       "width": 320,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 350996
+      "sample_bytes": 751248
     }
   },
   {
@@ -3482,13 +3488,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1586,
+    "elapsed_ms": 1335,
     "media": {
       "codec": "h264",
       "width": 320,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 732824
+      "sample_bytes": 672664
     }
   },
   {
@@ -3504,13 +3510,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 897,
+    "elapsed_ms": 1833,
     "media": {
       "codec": "h264",
       "width": 320,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 602916
+      "sample_bytes": 579604
     }
   },
   {
@@ -3526,13 +3532,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 772,
+    "elapsed_ms": 2086,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 2150344
+      "sample_bytes": 2080784
     }
   },
   {
@@ -3548,13 +3554,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2830,
+    "elapsed_ms": 3034,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 2537624
+      "sample_bytes": 2745364
     }
   },
   {
@@ -3570,13 +3576,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4936,
+    "elapsed_ms": 6258,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1302652
+      "sample_bytes": 1799536
     }
   },
   {
@@ -3592,13 +3598,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2492,
+    "elapsed_ms": 1898,
     "media": {
       "codec": "h264",
       "width": 512,
       "height": 288,
       "decoded_frames": 1,
-      "sample_bytes": 189880
+      "sample_bytes": 213944
     }
   },
   {
@@ -3614,7 +3620,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 1171,
+    "elapsed_ms": 1127,
     "media": {}
   },
   {
@@ -3630,13 +3636,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2757,
+    "elapsed_ms": 2990,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 191008
+      "sample_bytes": 191196
     }
   },
   {
@@ -3652,7 +3658,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1444,
+    "elapsed_ms": 1582,
     "media": {}
   },
   {
@@ -3668,7 +3674,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1427,
+    "elapsed_ms": 1261,
     "media": {}
   },
   {
@@ -3684,7 +3690,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1352,
+    "elapsed_ms": 1521,
     "media": {}
   },
   {
@@ -3700,7 +3706,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1434,
+    "elapsed_ms": 1455,
     "media": {}
   },
   {
@@ -3716,13 +3722,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2152,
+    "elapsed_ms": 1868,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 450448
+      "sample_bytes": 465864
     }
   },
   {
@@ -3738,13 +3744,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1224,
+    "elapsed_ms": 1419,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 2415424
+      "sample_bytes": 2468816
     }
   },
   {
@@ -3760,13 +3766,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 5397,
+    "elapsed_ms": 5167,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3826176
+      "sample_bytes": 3552448
     }
   },
   {
@@ -3782,13 +3788,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1356,
+    "elapsed_ms": 1725,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1302464
+      "sample_bytes": 2367296
     }
   },
   {
@@ -3804,7 +3810,7 @@
     },
     "ok": false,
     "reason": "network_error",
-    "elapsed_ms": 252,
+    "elapsed_ms": 247,
     "media": {}
   },
   {
@@ -3820,7 +3826,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 949,
+    "elapsed_ms": 677,
     "media": {}
   },
   {
@@ -3836,7 +3842,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1369,
+    "elapsed_ms": 1473,
     "media": {}
   },
   {
@@ -3852,7 +3858,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 164,
+    "elapsed_ms": 197,
     "media": {}
   },
   {
@@ -3868,13 +3874,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1193,
+    "elapsed_ms": 1140,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 413036
+      "sample_bytes": 388972
     }
   },
   {
@@ -3890,13 +3896,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1580,
+    "elapsed_ms": 1535,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 319788
+      "sample_bytes": 338400
     }
   },
   {
@@ -3912,7 +3918,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 515,
+    "elapsed_ms": 395,
     "media": {}
   },
   {
@@ -3928,7 +3934,7 @@
     },
     "ok": false,
     "reason": "no_video_stream",
-    "elapsed_ms": 1383,
+    "elapsed_ms": 1839,
     "media": {}
   },
   {
@@ -3944,7 +3950,7 @@
     },
     "ok": false,
     "reason": "http_400",
-    "elapsed_ms": 211,
+    "elapsed_ms": 232,
     "media": {}
   },
   {
@@ -3960,7 +3966,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5485,
+    "elapsed_ms": 5397,
     "media": {}
   },
   {
@@ -3976,13 +3982,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3911,
+    "elapsed_ms": 3739,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 639200
+      "sample_bytes": 577536
     }
   },
   {
@@ -3998,13 +4004,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1290,
+    "elapsed_ms": 1207,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 613444
+      "sample_bytes": 604232
     }
   },
   {
@@ -4020,13 +4026,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1604,
+    "elapsed_ms": 1689,
     "media": {
       "codec": "mpeg2video",
       "width": 720,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 1312992
+      "sample_bytes": 1320700
     }
   },
   {
@@ -4042,13 +4048,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 4805,
+    "elapsed_ms": 5988,
     "media": {
       "codec": "h264",
       "width": 720,
       "height": 576,
       "decoded_frames": 1,
-      "sample_bytes": 933044
+      "sample_bytes": 865364
     }
   },
   {
@@ -4064,7 +4070,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 380,
+    "elapsed_ms": 217,
     "media": {}
   },
   {
@@ -4080,7 +4086,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 236,
+    "elapsed_ms": 263,
     "media": {}
   },
   {
@@ -4096,13 +4102,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3378,
+    "elapsed_ms": 2906,
     "media": {
       "codec": "h264",
       "width": 480,
       "height": 270,
       "decoded_frames": 1,
-      "sample_bytes": 927780
+      "sample_bytes": 940564
     }
   },
   {
@@ -4118,7 +4124,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1373,
+    "elapsed_ms": 1420,
     "media": {}
   },
   {
@@ -4134,7 +4140,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1351,
+    "elapsed_ms": 1424,
     "media": {}
   },
   {
@@ -4150,7 +4156,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1392,
+    "elapsed_ms": 1034,
     "media": {}
   },
   {
@@ -4166,7 +4172,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1456,
+    "elapsed_ms": 1448,
     "media": {}
   },
   {
@@ -4182,7 +4188,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1381,
+    "elapsed_ms": 1479,
     "media": {}
   },
   {
@@ -4198,7 +4204,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1381,
+    "elapsed_ms": 1498,
     "media": {}
   },
   {
@@ -4214,7 +4220,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1423,
+    "elapsed_ms": 1378,
     "media": {}
   },
   {
@@ -4230,7 +4236,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1327,
+    "elapsed_ms": 1137,
     "media": {}
   },
   {
@@ -4246,7 +4252,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1419,
+    "elapsed_ms": 1433,
     "media": {}
   },
   {
@@ -4262,13 +4268,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2451,
+    "elapsed_ms": 3113,
     "media": {
       "codec": "h264",
       "width": 480,
       "height": 270,
       "decoded_frames": 1,
-      "sample_bytes": 809340
+      "sample_bytes": 815544
     }
   },
   {
@@ -4284,13 +4290,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3113,
+    "elapsed_ms": 2720,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1751972
+      "sample_bytes": 1217864
     }
   },
   {
@@ -4306,13 +4312,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1454,
+    "elapsed_ms": 1428,
     "media": {
       "codec": "h264",
       "width": 416,
       "height": 234,
       "decoded_frames": 1,
-      "sample_bytes": 244410
+      "sample_bytes": 228871
     }
   },
   {
@@ -4328,13 +4334,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1192,
+    "elapsed_ms": 1503,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 267336
+      "sample_bytes": 265644
     }
   },
   {
@@ -4350,13 +4356,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2461,
+    "elapsed_ms": 1655,
     "media": {
       "codec": "h264",
       "width": 416,
       "height": 234,
       "decoded_frames": 1,
-      "sample_bytes": 307004
+      "sample_bytes": 308320
     }
   },
   {
@@ -4372,13 +4378,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2376,
+    "elapsed_ms": 1397,
     "media": {
       "codec": "h264",
       "width": 256,
       "height": 144,
       "decoded_frames": 1,
-      "sample_bytes": 226164
+      "sample_bytes": 186308
     }
   },
   {
@@ -4394,7 +4400,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 640,
+    "elapsed_ms": 175,
     "media": {}
   },
   {
@@ -4410,13 +4416,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1985,
+    "elapsed_ms": 1621,
     "media": {
       "codec": "h264",
       "width": 416,
       "height": 234,
       "decoded_frames": 1,
-      "sample_bytes": 349492
+      "sample_bytes": 344040
     }
   },
   {
@@ -4432,13 +4438,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1258,
+    "elapsed_ms": 809,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 372616
+      "sample_bytes": 382956
     }
   },
   {
@@ -4454,13 +4460,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2936,
+    "elapsed_ms": 3294,
     "media": {
       "codec": "h264",
       "width": 480,
       "height": 270,
       "decoded_frames": 1,
-      "sample_bytes": 88736
+      "sample_bytes": 122576
     }
   },
   {
@@ -4476,13 +4482,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 5632,
+    "elapsed_ms": 5695,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 2375380
+      "sample_bytes": 2077588
     }
   },
   {
@@ -4498,7 +4504,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1033,
+    "elapsed_ms": 1209,
     "media": {}
   },
   {
@@ -4514,13 +4520,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2565,
+    "elapsed_ms": 1413,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1333296
+      "sample_bytes": 686388
     }
   },
   {
@@ -4536,7 +4542,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 827,
+    "elapsed_ms": 821,
     "media": {}
   },
   {
@@ -4552,7 +4558,7 @@
     },
     "ok": false,
     "reason": "no_video_stream",
-    "elapsed_ms": 2729,
+    "elapsed_ms": 2936,
     "media": {}
   },
   {
@@ -4568,13 +4574,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 891,
+    "elapsed_ms": 660,
     "media": {
       "codec": "h264",
       "width": 768,
       "height": 432,
       "decoded_frames": 1,
-      "sample_bytes": 479964
+      "sample_bytes": 482408
     }
   },
   {
@@ -4590,13 +4596,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 673,
+    "elapsed_ms": 671,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1106756
+      "sample_bytes": 1179888
     }
   },
   {
@@ -4612,13 +4618,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 777,
+    "elapsed_ms": 754,
     "media": {
       "codec": "h264",
       "width": 768,
       "height": 432,
       "decoded_frames": 1,
-      "sample_bytes": 475828
+      "sample_bytes": 491056
     }
   },
   {
@@ -4634,13 +4640,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1307,
+    "elapsed_ms": 1323,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 574152
+      "sample_bytes": 574904
     }
   },
   {
@@ -4656,13 +4662,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2088,
+    "elapsed_ms": 1908,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 1094724
+      "sample_bytes": 1096228
     }
   },
   {
@@ -4678,7 +4684,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 397,
+    "elapsed_ms": 198,
     "media": {}
   },
   {
@@ -4694,13 +4700,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2206,
+    "elapsed_ms": 2320,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 1067840
+      "sample_bytes": 1374656
     }
   },
   {
@@ -4716,13 +4722,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1728,
+    "elapsed_ms": 2102,
     "media": {
       "codec": "h264",
-      "width": 488,
+      "width": 480,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 297792
+      "sample_bytes": 448192
     }
   },
   {
@@ -4738,13 +4744,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1219,
+    "elapsed_ms": 1395,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 489928
+      "sample_bytes": 489552
     }
   },
   {
@@ -4760,7 +4766,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1332,
+    "elapsed_ms": 1417,
     "media": {}
   },
   {
@@ -4776,13 +4782,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1834,
+    "elapsed_ms": 1377,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 5643572
+      "sample_bytes": 5646768
     }
   },
   {
@@ -4798,7 +4804,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 738,
+    "elapsed_ms": 782,
     "media": {}
   },
   {
@@ -4814,13 +4820,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1500,
+    "elapsed_ms": 1332,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 401756
+      "sample_bytes": 435032
     }
   },
   {
@@ -4836,7 +4842,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1473,
+    "elapsed_ms": 1658,
     "media": {}
   },
   {
@@ -4852,7 +4858,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1507,
+    "elapsed_ms": 1584,
     "media": {}
   },
   {
@@ -4868,13 +4874,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2572,
+    "elapsed_ms": 2236,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 3997632
+      "sample_bytes": 3955520
     }
   },
   {
@@ -4890,13 +4896,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 960,
+    "elapsed_ms": 1097,
     "media": {
       "codec": "h264",
       "width": 426,
       "height": 240,
       "decoded_frames": 1,
-      "sample_bytes": 271660
+      "sample_bytes": 314524
     }
   },
   {
@@ -4912,7 +4918,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5104,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -4928,7 +4934,7 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2944,
+    "elapsed_ms": 2460,
     "media": {
       "codec": "h264",
       "width": 1920,
@@ -4950,7 +4956,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 157,
+    "elapsed_ms": 140,
     "media": {}
   },
   {
@@ -4966,13 +4972,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1967,
+    "elapsed_ms": 1878,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1236664
+      "sample_bytes": 1350780
     }
   },
   {
@@ -4988,13 +4994,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2776,
+    "elapsed_ms": 2966,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1256028
+      "sample_bytes": 1198876
     }
   },
   {
@@ -5010,7 +5016,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 125,
+    "elapsed_ms": 122,
     "media": {}
   },
   {
@@ -5026,7 +5032,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 1129,
+    "elapsed_ms": 1348,
     "media": {}
   },
   {
@@ -5042,7 +5048,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1572,
+    "elapsed_ms": 1590,
     "media": {}
   },
   {
@@ -5058,13 +5064,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 939,
+    "elapsed_ms": 795,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 596712
+      "sample_bytes": 590320
     }
   },
   {
@@ -5080,7 +5086,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 974,
+    "elapsed_ms": 1407,
     "media": {}
   },
   {
@@ -5096,13 +5102,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 1613,
+    "elapsed_ms": 1631,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 2968896
+      "sample_bytes": 3949504
     }
   },
   {
@@ -5118,7 +5124,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 837,
+    "elapsed_ms": 820,
     "media": {}
   },
   {
@@ -5134,7 +5140,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 450,
+    "elapsed_ms": 451,
     "media": {}
   },
   {
@@ -5150,7 +5156,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5080,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -5166,13 +5172,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 7514,
+    "elapsed_ms": 7145,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 1670944
+      "sample_bytes": 1678276
     }
   },
   {
@@ -5188,7 +5194,7 @@
     },
     "ok": false,
     "reason": "not_supported_media",
-    "elapsed_ms": 963,
+    "elapsed_ms": 869,
     "media": {}
   },
   {
@@ -5204,7 +5210,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 260,
+    "elapsed_ms": 88,
     "media": {}
   },
   {
@@ -5220,7 +5226,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5073,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -5236,7 +5242,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5512,
+    "elapsed_ms": 5223,
     "media": {}
   },
   {
@@ -5268,7 +5274,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 1288,
+    "elapsed_ms": 532,
     "media": {}
   },
   {
@@ -5283,8 +5289,8 @@
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
     "ok": false,
-    "reason": "network_timeout",
-    "elapsed_ms": 5154,
+    "reason": "network_error",
+    "elapsed_ms": 304,
     "media": {}
   },
   {
@@ -5300,13 +5306,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3599,
+    "elapsed_ms": 2811,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 4756776
+      "sample_bytes": 4697368
     }
   },
   {
@@ -5320,16 +5326,10 @@
       "source": "https://iptv-org.github.io/iptv/countries/tw.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": true,
-    "reason": "decoded_video_frame",
-    "elapsed_ms": 3620,
-    "media": {
-      "codec": "h264",
-      "width": 1280,
-      "height": 720,
-      "decoded_frames": 1,
-      "sample_bytes": 524288
-    }
+    "ok": false,
+    "reason": "video_decode_failed",
+    "elapsed_ms": 2767,
+    "media": {}
   },
   {
     "channel": {
@@ -5344,7 +5344,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 105,
+    "elapsed_ms": 93,
     "media": {}
   },
   {
@@ -5360,7 +5360,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5072,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -5376,7 +5376,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 127,
+    "elapsed_ms": 120,
     "media": {}
   },
   {
@@ -5392,7 +5392,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 107,
+    "elapsed_ms": 147,
     "media": {}
   },
   {
@@ -5408,7 +5408,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 184,
+    "elapsed_ms": 261,
     "media": {}
   },
   {
@@ -5424,7 +5424,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 112,
+    "elapsed_ms": 199,
     "media": {}
   },
   {
@@ -5440,7 +5440,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 443,
+    "elapsed_ms": 448,
     "media": {}
   },
   {
@@ -5456,13 +5456,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3577,
+    "elapsed_ms": 3244,
     "media": {
       "codec": "h264",
       "width": 854,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 1724148
+      "sample_bytes": 1432372
     }
   },
   {
@@ -5478,13 +5478,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3446,
+    "elapsed_ms": 3193,
     "media": {
       "codec": "h264",
       "width": 854,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 1465460
+      "sample_bytes": 1477492
     }
   },
   {
@@ -5500,7 +5500,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 100,
+    "elapsed_ms": 109,
     "media": {}
   },
   {
@@ -5516,7 +5516,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 329,
+    "elapsed_ms": 126,
     "media": {}
   },
   {
@@ -5532,13 +5532,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 768,
+    "elapsed_ms": 604,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 595584
+      "sample_bytes": 622468
     }
   },
   {
@@ -5554,7 +5554,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 102,
+    "elapsed_ms": 125,
     "media": {}
   },
   {
@@ -5570,7 +5570,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 117,
+    "elapsed_ms": 92,
     "media": {}
   },
   {
@@ -5586,7 +5586,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 448,
+    "elapsed_ms": 443,
     "media": {}
   },
   {
@@ -5602,13 +5602,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 7256,
+    "elapsed_ms": 6731,
     "media": {
       "codec": "h264",
       "width": 854,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 322232
+      "sample_bytes": 313208
     }
   },
   {
@@ -5624,7 +5624,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 3910,
+    "elapsed_ms": 4731,
     "media": {}
   },
   {
@@ -5639,8 +5639,8 @@
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
     "ok": false,
-    "reason": "network_timeout",
-    "elapsed_ms": 5125,
+    "reason": "network_error",
+    "elapsed_ms": 296,
     "media": {}
   },
   {
@@ -5656,7 +5656,7 @@
     },
     "ok": false,
     "reason": "http_404",
-    "elapsed_ms": 449,
+    "elapsed_ms": 443,
     "media": {}
   },
   {
@@ -5672,7 +5672,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5080,
+    "elapsed_ms": 5116,
     "media": {}
   },
   {
@@ -5688,13 +5688,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2167,
+    "elapsed_ms": 1405,
     "media": {
       "codec": "h264",
       "width": 640,
       "height": 360,
       "decoded_frames": 1,
-      "sample_bytes": 725492
+      "sample_bytes": 763656
     }
   },
   {
@@ -5710,7 +5710,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5075,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -5726,7 +5726,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5078,
+    "elapsed_ms": 5079,
     "media": {}
   },
   {
@@ -5740,16 +5740,10 @@
       "source": "https://iptv-org.github.io/iptv/countries/hk.m3u",
       "rights": "unknown; community-listed public endpoint, not a license grant"
     },
-    "ok": true,
-    "reason": "decoded_video_frame",
-    "elapsed_ms": 2213,
-    "media": {
-      "codec": "h264",
-      "width": 432,
-      "height": 240,
-      "decoded_frames": 1,
-      "sample_bytes": 778884
-    }
+    "ok": false,
+    "reason": "http_404",
+    "elapsed_ms": 1070,
+    "media": {}
   },
   {
     "channel": {
@@ -5764,7 +5758,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 218,
+    "elapsed_ms": 456,
     "media": {}
   },
   {
@@ -5780,7 +5774,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 294,
+    "elapsed_ms": 362,
     "media": {}
   },
   {
@@ -5796,7 +5790,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 194,
+    "elapsed_ms": 372,
     "media": {}
   },
   {
@@ -5812,7 +5806,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 191,
+    "elapsed_ms": 269,
     "media": {}
   },
   {
@@ -5828,7 +5822,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 111,
+    "elapsed_ms": 117,
     "media": {}
   },
   {
@@ -5844,7 +5838,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5074,
+    "elapsed_ms": 5078,
     "media": {}
   },
   {
@@ -5860,13 +5854,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 988,
+    "elapsed_ms": 641,
     "media": {
       "codec": "h264",
       "width": 1280,
       "height": 720,
       "decoded_frames": 1,
-      "sample_bytes": 5925008
+      "sample_bytes": 2880348
     }
   },
   {
@@ -5882,7 +5876,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5243,
+    "elapsed_ms": 5409,
     "media": {}
   },
   {
@@ -5898,7 +5892,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5080,
+    "elapsed_ms": 5731,
     "media": {}
   },
   {
@@ -5914,7 +5908,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5073,
+    "elapsed_ms": 5112,
     "media": {}
   },
   {
@@ -5930,7 +5924,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5891,
+    "elapsed_ms": 5386,
     "media": {}
   },
   {
@@ -5946,7 +5940,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5705,
+    "elapsed_ms": 5787,
     "media": {}
   },
   {
@@ -5962,7 +5956,7 @@
     },
     "ok": false,
     "reason": "network_timeout",
-    "elapsed_ms": 5074,
+    "elapsed_ms": 5077,
     "media": {}
   },
   {
@@ -5978,13 +5972,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 938,
+    "elapsed_ms": 833,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 1928316
+      "sample_bytes": 2041304
     }
   },
   {
@@ -6000,7 +5994,7 @@
     },
     "ok": false,
     "reason": "dns_error",
-    "elapsed_ms": 75,
+    "elapsed_ms": 240,
     "media": {}
   },
   {
@@ -6016,13 +6010,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 538,
+    "elapsed_ms": 593,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 894128
+      "sample_bytes": 887736
     }
   },
   {
@@ -6038,7 +6032,7 @@
     },
     "ok": false,
     "reason": "encrypted_stream_skipped",
-    "elapsed_ms": 1853,
+    "elapsed_ms": 1974,
     "media": {}
   },
   {
@@ -6054,7 +6048,7 @@
     },
     "ok": false,
     "reason": "http_400",
-    "elapsed_ms": 207,
+    "elapsed_ms": 217,
     "media": {}
   },
   {
@@ -6070,7 +6064,7 @@
     },
     "ok": false,
     "reason": "http_403",
-    "elapsed_ms": 944,
+    "elapsed_ms": 919,
     "media": {}
   },
   {
@@ -6086,13 +6080,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 3146,
+    "elapsed_ms": 1454,
     "media": {
       "codec": "h264",
       "width": 1920,
       "height": 1080,
       "decoded_frames": 1,
-      "sample_bytes": 4381258
+      "sample_bytes": 4570182
     }
   },
   {
@@ -6108,13 +6102,13 @@
     },
     "ok": true,
     "reason": "decoded_video_frame",
-    "elapsed_ms": 2786,
+    "elapsed_ms": 2809,
     "media": {
       "codec": "h264",
       "width": 854,
       "height": 480,
       "decoded_frames": 1,
-      "sample_bytes": 709512
+      "sample_bytes": 722672
     }
   }
 ]
