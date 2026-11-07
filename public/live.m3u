@@ -1,6 +1,8 @@
 #EXTM3U
-# Generated UTC: 2026-11-06T09:04:46Z
+# Generated UTC: 2026-11-07T00:56:32Z
 # Validation: one locally decoded video frame; playback depends on region and network.
+#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="央视",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="央视",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1 (720p)
@@ -39,12 +41,8 @@ http://192.151.150.154/live/cctv8k.m3u8
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="央视",CCTV-Billiards (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="央视",CCTV-Culture of Quality SD (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="央视",CCTV-Golf & Tennis (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVHealth.cn@HD" tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="央视",CCTV-Health (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@HD" tvg-logo="https://i.imgur.com/TVs9PBc.png" group-title="央视",CCTV-Nostalgia Theater (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="央视",CCTV-Storm Football (1080p)
@@ -59,8 +57,6 @@ http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="央视",CCTV-Women's Fashion SD (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWorldGeography.cn@SD" tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="央视",CCTV-World Geography SD (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="AnhuiTV.cn@SD" tvg-logo="https://i.imgur.com/gDn101f.png" group-title="卫视",Anhui TV
 https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg" group-title="卫视",Guangdong Satellite TV
@@ -69,28 +65,24 @@ https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-id="HunanTV.cn@SD" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视",Hunan TV (2160p)
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-id="AsianDrama.hk@SD" tvg-logo="https://i.imgur.com/wqtN7mH.png" group-title="港澳台",Asian Drama (1080p)
-http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="港澳台",Beautiful Life TV (720p)
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="港澳台",Dali TV (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="GoldenJade.hk@SD" tvg-logo="https://i.imgur.com/lPYxsUr.png" group-title="港澳台",Golden Jade (1080p)
-http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="港澳台",Discovery Asia Taiwan (1080p)
+http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-id="Good2.tw@SD" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="港澳台",Good 2 (720p)
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="GoodTV.tw@SD" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="港澳台",Good TV (Taiwan) (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="港澳台",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="Jade.hk@SD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="港澳台",Jade (1080p)
-http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 #EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="港澳台",KIX (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=9901
-#EXTINF:-1 tvg-id="MeiAhMovieChannel.hk@SD" tvg-logo="https://i.imgur.com/laGiFM1.png" group-title="港澳台",Mei Ah Movie Channel (1080p)
-http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="港澳台",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="港澳台",RTHK TV 31 (1080p) [Geo-blocked]
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="港澳台",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TTVNews.tw@SD" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="港澳台",TTV News
@@ -101,185 +93,201 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="WXTV.tw@SD" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="港澳台",WXTV (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us@SD" tvg-logo="https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg" group-title="海外",30A Luxe Life Discovered (720p)
-https://30a-tv.com/feeds/vidaa/luxelife.m3u8
-#EXTINF:-1 tvg-id="3ABNProclaimNetwork.us@SD" tvg-logo="https://i.imgur.com/zUMUNhe.png" group-title="海外",3ABN Proclaim! Network (720p)
-https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABNAfrica.us@SD" tvg-logo="https://i.imgur.com/SLrX8Ef.png" group-title="海外",ABN Africa (480p)
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
-#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="海外",AKC TV Meet the Breeds (1080p)
-https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="AMGTV.us@SD" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="海外",AMG TV (1080p)
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="海外",Adventure Earth (1080p)
-https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
-#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD" tvg-logo="https://i.imgur.com/lNGJGjy.png" group-title="海外",Ahlulbayt TV (1080p)
-https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
+#EXTINF:-1 tvg-id="10Bold.au@Sydney" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="海外",10 Bold (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="30AInvestmentPitch.us@SD" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="海外",30A Investment Pitch (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 tvg-id="30ARidiculousTV.us@SD" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="海外",30A Ridiculous TV (720p)
+https://30a-tv.com/feeds/720p/63.m3u8
+#EXTINF:-1 tvg-id="30ASidewalks.us@SD" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="海外",30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
 #EXTINF:-1 tvg-id="Akaku54.us@SD" tvg-logo="https://www.akaku.org/wp-content/uploads/bb-plugin/cache/Channel54-147x150-square.png" group-title="海外",Akaku 54 (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="AllWeddingsWEtv.us@SD" tvg-logo="https://i.imgur.com/OjLCew5.png" group-title="海外",All Weddings WE tv (1080p)
-https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" group-title="海外",American Heroes Channel (720p)
-http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Australia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="海外",Angel TV Australia (720p)
-https://janya-digimix.akamaized.net/vglive-sk-310787/australia/ngrp:angelaustralia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BEKNews.us@SD" tvg-logo="https://i.imgur.com/m80uxdz.png" group-title="海外",BEK News (720p)
-https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="海外",Baby Shark TV (1080p)
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us@SD" tvg-logo="https://i.imgur.com/XhDBdff.png" group-title="海外",Beach TV Key West & Florida Keys (720p)
-https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BetterHealthTV.us@SD" tvg-logo="https://i.imgur.com/qnwJiji.png" group-title="海外",Better Health TV (480p)
-https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
-#EXTINF:-1 tvg-id="BibelTVMusik.de@SD" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="海外",Bibel TV Musik (720p)
-https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="BizTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png" group-title="海外",Biz TV (1080p)
-https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
-#EXTINF:-1 tvg-id="BlackNewsChannel.us@SD" tvg-logo="https://i.imgur.com/oX5oR4d.png" group-title="海外",Black News Channel (1080p)
-https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="海外",Brit Asia TV (1080p)
-https://hls.autopo.st/hls/britasiatv/index.m3u8
-#EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="海外",Cannes Lerins TV (1080p)
-https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
-#EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png" group-title="海外",Channel U (720p)
-https://cdn.qd.je/163189/chu
-#EXTINF:-1 tvg-id="CityNewsVancouver.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="海外",CityNews Vancouver (720p)
-https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="海外",Court TV (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
-#EXTINF:-1 tvg-id="Denver8TV.us@SD" tvg-logo="https://i.imgur.com/wMIy5jb.png" group-title="海外",Denver 8 TV (720p)
-https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="海外",Discovery Channel (United States) (1080p) [Geo-blocked]
-http://212.5.144.156:8080/discovery/index.m3u8
-#EXTINF:-1 tvg-id="DukhNivaran.ca@SD" tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="海外",Dukh Nivaran (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/dncal/index.m3u8
+#EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" tvg-logo="https://i.imgur.com/UjOxwdd.png" group-title="海外",Al Hiwar TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AllgauTV.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/960px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="海外",Allgau TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="海外",Anger Management Channel (1080p)
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="海外",BATV Educational Channel (1080p)
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCHomeGarden.us@SD" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="海外",BBC Home & Garden (1080p)
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Binge.us@SD" tvg-logo="https://i.imgur.com/kEETRln.png" group-title="海外",Binge (720p)
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CANTV36.us@SD" tvg-logo="https://i.imgur.com/43EpWsD.png" group-title="海外",CAN TV36 (1080p)
+https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="海外",CBS Sports HQ (720p)
+https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="CMAPChannel20.us@SD" tvg-logo="https://i.imgur.com/wlYUEYc.png" group-title="海外",CMAP Channel 20 (720p)
+https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="海外",CNA (Singapore) (1080p) [Geo-blocked]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="海外",CNBC UK (1080p)
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="海外",CNN en Espanol (1080p)
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN.us@SD" tvg-logo="https://i.imgur.com/42UdwD0.png" group-title="海外",CTN (United States) (720p)
+https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
+#EXTINF:-1 tvg-id="Charge.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Charge!_network_logo.png/revision/latest/scale-to-width-down/512/" group-title="海外",Charge! (1080p)
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="海外",Comedy Central (Germany)
+https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:-1 tvg-id="DerTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Der%20TV.jpeg" group-title="海外",Der TV
+https://stream.berosat.live/hls/der-tv/der-tv.m3u8
+#EXTINF:-1 tvg-id="DerryTV17.us@SD" tvg-logo="https://i.imgur.com/MRR6UL3.png" group-title="海外",DerryTV 17 (720p)
+https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" group-title="海外",Destination America (720p)
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="海外",ESPN 2 (United States) HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us@SD" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="海外",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FierroaFondoTV.us@SD" tvg-logo="https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg" group-title="海外",Fierro a Fondo TV (1080p)
 http://45.70.201.81:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="FolkKlubTV.au@SD" tvg-logo="https://i.imgur.com/Seq7Od7.png" group-title="海外",Folk Klub TV (720p)
-http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
-#EXTINF:-1 tvg-id="GREATmovies.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="海外",GREAT! movies (1080p)
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1 tvg-id="Getfactual.us@UK" tvg-logo="https://i.imgur.com/4oVcjLd.png" group-title="海外",Get.factual (720p)
-https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
-#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel192.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" group-title="海外",Gillette Public Access Television Channel 192
-https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
-#EXTINF:-1 tvg-id="Glendale11AZ.us@SD" tvg-logo="https://i.imgur.com/jehiyV7.png" group-title="海外",Glendale 11 AZ (360p)
-https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
-#EXTINF:-1 tvg-id="HMIPROMZNEWS.us@SD" tvg-logo="https://i.imgur.com/gwPaw3v.png" group-title="海外",HMI PROMZ NEWS (720p)
-https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
-#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-logo="https://i.imgur.com/dRsacao.png" group-title="海外",Hmong Star TV (720p) [Not 24/7]
-https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD" tvg-logo="https://i.imgur.com/9EWffqx.png" group-title="海外",Impossible Quiz Show (1080p)
-https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="海外",KN Music TV
-https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr@SD" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="海外",Gongyoung Home Shopping (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-logo="https://i.imgur.com/WgN4T18.png" group-title="海外",Gordon Ramsay's Hell's Kitchen (720p)
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de@SD" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="海外",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSETrend.de@SD" tvg-logo="https://i.imgur.com/qwh2urX.png" group-title="海外",HSE Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="HisGloryTV.us@SD" tvg-logo="https://i.imgur.com/VTcdAJj.jpeg" group-title="海外",His Glory TV (1080p)
+https://customer-6itfaqopbksp5p0q.cloudflarestream.com/3972e89fb79bf6d6dd2a16c75455087a/manifest/video.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="海外",History (United States) (720p)
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="HobbyMaker.uk@SD" tvg-logo="https://i.imgur.com/VWHp5Tl.png" group-title="海外",Hobby Maker (720p)
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr@SD" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="海外",Hyundai Home Shopping + Shop (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IntheKitchen.us@SD" tvg-logo="https://i.imgur.com/HrRUd6r.png" group-title="海外",In the Kitchen (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-id="KSCE383.us@HD" tvg-logo="https://i.imgur.com/P0vZXU0.png" group-title="海外",KSCE 38.3 (360p)
+https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="海外",KTV (South Korea) (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalJadid.uk@SD" tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="海外",Kanal Jadid
-https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KartoonChannel.us@SD" tvg-logo="https://i.imgur.com/1luzP3T.png" group-title="海外",Kartoon Channel! (1080p)
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="海外",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="LGTV.us@SD" tvg-logo="https://i.imgur.com/d5w2pT4.png" group-title="海外",LGTV (1080p)
+https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="LLBNTVChinese.us@SD" tvg-logo="https://i.imgur.com/C0jUDMn.png" group-title="海外",LLBN TV Chinese (480p)
+https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8
+#EXTINF:-1 tvg-id="LLBNTVKorean.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="海外",LLBN TV Korean (480p)
+https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8
+#EXTINF:-1 tvg-id="LLBNTVRomanian.us@SD" tvg-logo="https://i.imgur.com/WsOfy19.png" group-title="海外",LLBN TV Romanian (480p)
+https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8
+#EXTINF:-1 tvg-id="LacrosseTV.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_xSJFydxZ9QBU-85OuchjmzS0Bo0_Tukmk7to8hBfyl8=s512-c-k-c0x00ffffff-no-rj" group-title="海外",Lacrosse TV (720p)
+https://a-cdn.klowdtv.com/live2/lsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="LexTV.us@SD" tvg-logo="https://i.imgur.com/a36SPo6.png" group-title="海外",Lex TV (720p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8
-#EXTINF:-1 tvg-id="MCTV.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="海外",MC TV (720p)
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1 tvg-id="LogosTV.es@SD" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="海外",Logos TV (Spain) (1080p) [Not 24/7]
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-id="MBC3USA.us@SD" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="海外",MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="海外",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MTA5Africa.uk@SD" tvg-logo="https://i.imgur.com/9Cobb2i.png" group-title="海外",MTA5 Africa (1080p)
-https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1 tvg-id="MUTV.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="海外",MUTV (720p)
-https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="MajestadTV.us@SD" tvg-logo="https://i.imgur.com/BJhrvtL.png" group-title="海外",Majestad TV (480p) [Not 24/7]
-https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
-#EXTINF:-1 tvg-id="MeritStreet.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512" group-title="海外",Merit Street (1080p)
-https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
-#EXTINF:-1 tvg-id="MiracleTV.uk@SD" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="海外",Miracle TV (480p)
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-logo="https://i.imgur.com/EzNf2Yx.png" group-title="海外",NBC Sports NOW (1080p)
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 tvg-id="NBC.us@WPXI" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="海外",NBC WPXI (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVPlus.ca@SD" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="海外",NTV+
-https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NatickPublicAccessChannel.us@SD" tvg-logo="https://i.imgur.com/G4a3gW0.png" group-title="海外",Natick Public Access Channel (720p)
-https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@UK" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="海外",NatureTime UK (1080p)
-https://amg01515-amg01515c43-samsung-gb-9038.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="News24Weather.au@SD" tvg-logo="https://i.imgur.com/HkBec1e.png" group-title="海外",News24 Weather
-https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="海外",Magnavision TV (720p)
+https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVisionUSA.us@SD" tvg-logo="https://i.imgur.com/eaVt8R1.png" group-title="海外",Maria Vision USA (1080p)
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:PALMIAMI/playlist.m3u8
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png" group-title="海外",Marquee Sports Network (576p)
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8
+#EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="海外",Maxcine Comedy (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC.us@WBTSCD" tvg-logo="https://i.imgur.com/nxY84W5.png" group-title="海外",NBC WBTS-CD (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="海外",NHL Network (1080p)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de@SD" tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="海外",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="Nosey.us@US" tvg-logo="https://i.imgur.com/i5doCQK.png" group-title="海外",Nosey (1080p)
+https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="海外",Novelisima (1080p)
+http://138.59.177.78:9999/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="OKFlensburg.de@SD" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="海外",OK Flensburg (576p)
 https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="OUN.kr@SD" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="海外",OUN (1080p)
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="OmideIranTV.us@SD" tvg-logo="https://i.imgur.com/CeMf68L.png" group-title="海外",Omid e Iran TV
-https://oitnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PBSNature.us@SD" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="海外",PBS Nature (1080p)
-https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
-#EXTINF:-1 tvg-id="QVC3.us@SD" tvg-logo="https://i.imgur.com/edswdOO.png" group-title="海外",QVC3 (1080p)
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
-#EXTINF:-1 tvg-id="RFH.de@SD" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="海外",RFH (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="SPTV.us@SD" tvg-logo="https://i.imgur.com/fl8I3cg.png" group-title="海外",SPTV (360p)
-https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143889_ld_h9_ab.png?lock=720x540" group-title="海外",SVBC (1080p)
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="海外",Shop Channel (1080p) [Not 24/7]
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="SpiritTV.us@SD" tvg-logo="https://i.imgur.com/yCp6vXz.png" group-title="海外",Spirit TV (720p) [Not 24/7]
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@West" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="海外",Starz West (720p)
-http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="海外",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="QVCExtra.uk@SD" tvg-logo="https://i.imgur.com/TIe5T9Z.png" group-title="海外",QVC Extra (540p)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
+#EXTINF:-1 tvg-id="RBW.de@SD" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="海外",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="海外",RCTV3 (480p)
+https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="RTViUS.us@SD" tvg-logo="" group-title="海外",RTVi US (1080p)
+https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RVTVCivic.us@SD" tvg-logo="https://i.imgur.com/cTLhQjo.png" group-title="海外",RVTV Civic (720p)
+https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Revry.us@SD" tvg-logo="https://i.imgur.com/XuTUaq4.png" group-title="海外",Revry (1080p)
+https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SBNTV.us@SD" tvg-logo="https://i.imgur.com/XLGIz2O.png" group-title="海外",SBN TV (720p)
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_c5402f016A/live.m3u8
+#EXTINF:-1 tvg-id="SNLVault.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/712dae9e-9111-4bbc-8ea4-242e891ab5b3/snl-vault-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png" group-title="海外",SNL Vault (1080p)
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de@SD" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="海外",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="海外",Sachsen Fernsehen Leipzig (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SikhSpiritualCentreRexdale.ca@SD" tvg-logo="https://i.imgur.com/YKXoIsr.png" group-title="海外",Sikh Spiritual Centre Rexdale (720p)
+https://cdn12.henico.net:8443/live/ssct/index.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="海外",Stingray Easy Listening (1080p)
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHolidayHits.us@SD" tvg-logo="https://i.imgur.com/Hz2d6og.png" group-title="海外",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
 #EXTINF:-1 tvg-id="StingrayNothinBut90s.ca@SD" tvg-logo="https://i.imgur.com/Tq3I0po.png" group-title="海外",Stingray Nothin' But 90s (1080p)
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="SuperSimpleSongs.us@SD" tvg-logo="https://i.imgur.com/3k4F7O9.png" group-title="海外",Super Simple Songs (1080p)
-https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TED.us@SD" tvg-logo="https://i.imgur.com/KeIhwNP.png" group-title="海外",TED (1080p)
-https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
-#EXTINF:-1 tvg-id="TVLandDrama.us@SD" tvg-logo="https://i.imgur.com/y1rXIAS.png" group-title="海外",TV Land Drama
-https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
-#EXTINF:-1 tvg-id="TakbeerTV.uk@SD" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="海外",Takbeer TV (720p)
-https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TrueCrimeNow.us@SD" tvg-logo="https://i.imgur.com/Y6Hix17.png" group-title="海外",True Crime Now (1080p)
-https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="VoATV.us@SD" tvg-logo="https://i.imgur.com/rtRnlqN.png" group-title="海外",VoA TV (1080p)
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-id="VoATVPersian.us@SD" tvg-logo="https://i.imgur.com/TmqComb.png" group-title="海外",VoA TV Persian (1080p)
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de@SD" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="海外",World of Freesports (1080p)
-https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XITEJustChill.nl@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="海外",XITE Just Chill (1080p)
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-id="XploreTV.us@SD" tvg-logo="https://i.imgur.com/WaGRlFO.png" group-title="海外",Xplore TV (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleins.de@SD" tvg-logo="https://i.imgur.com/6pulSHZ.png" group-title="海外",kabel eins
-https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="viaTelePaese.fr@SD" tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="海外",viaTelePaese (720p)
-https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
-#EXTINF:-1 tvg-id="zenith.fr@HD" tvg-logo="https://znth.tv/images/logo.png" group-title="海外",zenith (1080p)
-https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-id="Survivor.us@SD" tvg-logo="https://i.imgur.com/Zz9SgY8.png" group-title="海外",Survivor (1080p)
+https://amg00627-amg00627c16-samsung-nz-2811.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.us@SD" tvg-logo="https://i.imgur.com/CRvQ6sF.png" group-title="海外",TV4 (United States) (360p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us@SD" tvg-logo="https://i.imgur.com/w4fxiKi.png" group-title="海外",TVS Nostalgia Movies (480p)
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="TVSTelevisionNetwork.us@SD" tvg-logo="" group-title="海外",TVS Television Network (480p)
+https://rpn.bozztv.com/gusa/gusa-tvstn/index.m3u8
+#EXTINF:-1 tvg-id="TeleBoston.us@SD" tvg-logo="https://i.imgur.com/xeTtup8.png" group-title="海外",Tele Boston (480p)
+https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8
+#EXTINF:-1 tvg-id="ThePeninsulaChannel.us@SD" tvg-logo="https://i.imgur.com/Ybp6YKD.png" group-title="海外",The Peninsula Channel (720p)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch5/video.m3u8
+#EXTINF:-1 tvg-id="TheYoungTurks.us@SD" tvg-logo="https://i.imgur.com/XDNXJCl.png" group-title="海外",The Young Turks (720p)
+https://tyt-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="海外",Totalmusic 80s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TrueCrimeNetwork.us@SD" tvg-logo="https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png" group-title="海外",True Crime Network (1080p) [Geo-blocked]
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.us@SD" tvg-logo="https://i.imgur.com/XxfET68.png" group-title="海外",Universal Cinema (1080p)
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 tvg-id="VSiN.us@SD" tvg-logo="https://i.imgur.com/C4wIRxg.png" group-title="海外",VSiN (720p)
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 tvg-id="VelayatTVNetwork.us@SD" tvg-logo="https://i.imgur.com/bRQSzhs.png" group-title="海外",Velayat TV Network (480p)
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="海外",XITE Rock x Metal (1080p)
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="海外",Yes Network (720p)
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="AndoTV.cn@SD" tvg-logo="https://i.imgur.com/EpTsFVu.png" group-title="其他中文",Ando TV (1080p)
 http://play.kankanlive.com/live/1711956137852982.m3u8
-#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="其他中文",Baicheng TV [Geo-blocked]
-https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="其他中文",Chifeng Comprehensive News Chanel
-http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/960px-CGTN.svg.png" group-title="其他中文",CGTN (1080p)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNGlobalBiz.cn@SD" tvg-logo="https://i.imgur.com/qBmomnF.png" group-title="其他中文",CGTN Global Biz (1080p)
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="其他中文",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="其他中文",Discovering China (1080p)
-https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/gxzypd.jpg" group-title="其他中文",Guangxi Variety & Travel Channel
-http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 tvg-id="GuangzhouTV.cn@SD" tvg-logo="https://i.imgur.com/ff3KQXp.png" group-title="其他中文",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="其他中文",Harbin Comprehensive News Channel
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="其他中文",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="JingmenComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jmsxwpd.jpg" group-title="其他中文",Jingmen Comprehensive News Channel
-https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
-#EXTINF:-1 tvg-id="KangbaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/kangbatv.jpg" group-title="其他中文",Kangba TV
-http://110.185.237.164:8888/hls/30/index.m3u8
 #EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="其他中文",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
 #EXTINF:-1 tvg-id="TVBRICSChinese.cn@SD" tvg-logo="https://i.imgur.com/896132Z.png" group-title="其他中文",TV BRICS Chinese (1080p)
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="VoATVChina.cn@SD" tvg-logo="https://i.imgur.com/XCTZkoq.png" group-title="其他中文",VoA TV China (1080p)
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 tvg-id="XinjiangTV2.cn@SD" tvg-logo="https://i.imgur.com/GXFLqxx.png" group-title="其他中文",Xinjiang TV 2
+http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn@SD" tvg-logo="https://i.imgur.com/l8S5qQB.png" group-title="其他中文",Xinjiang TV 3
 http://110.153.180.106:55555/out_2/index.m3u8

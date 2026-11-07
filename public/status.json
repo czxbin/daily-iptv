@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "checked_at_utc": "2026-11-06T09:04:46Z",
-  "last_success_utc": "2026-11-06T09:04:46Z",
+  "checked_at_utc": "2026-11-07T00:56:32Z",
+  "last_success_utc": "2026-11-07T00:56:32Z",
   "published": true,
   "stale": false,
   "hold_reason": "",
-  "discovered_unique": 2889,
+  "discovered_unique": 2894,
   "tested": 328,
-  "passed": 141,
-  "playlist_count": 141,
+  "passed": 145,
+  "playlist_count": 145,
   "category_counts": {
-    "其他中文": 13,
+    "其他中文": 12,
     "卫视": 4,
-    "央视": 30,
-    "海外": 78,
-    "港澳台": 16
+    "央视": 28,
+    "海外": 87,
+    "港澳台": 14
   },
   "published_category_counts": {
-    "央视": 30,
+    "央视": 28,
     "卫视": 4,
-    "港澳台": 16,
-    "海外": 78,
-    "其他中文": 13
+    "港澳台": 14,
+    "海外": 87,
+    "其他中文": 12
   },
   "category_status": {
     "央视": {
-      "current_passed": 30,
-      "playlist_count": 30,
-      "last_success_utc": "2026-11-06T09:04:46Z",
+      "current_passed": 28,
+      "playlist_count": 28,
+      "last_success_utc": "2026-11-07T00:56:32Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -35,31 +35,31 @@
     "卫视": {
       "current_passed": 4,
       "playlist_count": 4,
-      "last_success_utc": "2026-11-06T09:04:46Z",
+      "last_success_utc": "2026-11-07T00:56:32Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "港澳台": {
-      "current_passed": 16,
-      "playlist_count": 16,
-      "last_success_utc": "2026-11-06T09:04:46Z",
+      "current_passed": 14,
+      "playlist_count": 14,
+      "last_success_utc": "2026-11-07T00:56:32Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "海外": {
-      "current_passed": 78,
-      "playlist_count": 78,
-      "last_success_utc": "2026-11-06T09:04:46Z",
+      "current_passed": 87,
+      "playlist_count": 87,
+      "last_success_utc": "2026-11-07T00:56:32Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "其他中文": {
-      "current_passed": 13,
-      "playlist_count": 13,
-      "last_success_utc": "2026-11-06T09:04:46Z",
+      "current_passed": 12,
+      "playlist_count": 12,
+      "last_success_utc": "2026-11-07T00:56:32Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -67,17 +67,17 @@
   },
   "missing_categories": [],
   "failure_reasons": {
-    "network_timeout": 67,
-    "http_403": 38,
+    "network_timeout": 71,
+    "http_403": 35,
+    "http_567": 3,
+    "dns_error": 13,
+    "http_404": 12,
     "not_supported_media": 9,
-    "http_567": 1,
-    "dns_error": 12,
-    "http_500": 2,
-    "http_404": 14,
-    "network_error": 6,
-    "encrypted_stream_skipped": 35,
-    "http_400": 2,
-    "video_decode_failed": 1
+    "network_error": 2,
+    "http_500": 1,
+    "encrypted_stream_skipped": 32,
+    "no_video_stream": 3,
+    "http_400": 2
   },
   "sources": [
     {
@@ -85,7 +85,7 @@
       "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
       "region": "CN",
       "ok": true,
-      "count": 221,
+      "count": 223,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -93,7 +93,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
       "region": "AU",
       "ok": true,
-      "count": 76,
+      "count": 77,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
       "region": "CA",
       "ok": true,
-      "count": 265,
+      "count": 267,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -109,7 +109,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
       "region": "CN",
       "ok": true,
-      "count": 149,
+      "count": 151,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -117,7 +117,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/de.m3u",
       "region": "DE",
       "ok": true,
-      "count": 288,
+      "count": 289,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -125,7 +125,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/fr.m3u",
       "region": "FR",
       "ok": true,
-      "count": 200,
+      "count": 199,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -181,7 +181,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
       "region": "UK",
       "ok": true,
-      "count": 304,
+      "count": 305,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -189,7 +189,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "region": "US",
       "ok": true,
-      "count": 1496,
+      "count": 1502,
       "rights": "unknown; community-listed URLs"
     }
   ],
