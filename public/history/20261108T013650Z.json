@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "checked_at_utc": "2026-11-08T01:36:50Z",
+  "last_success_utc": "2026-11-08T01:36:50Z",
+  "published": true,
+  "stale": false,
+  "hold_reason": "",
+  "discovered_unique": 2917,
+  "tested": 328,
+  "passed": 157,
+  "playlist_count": 157,
+  "category_counts": {
+    "其他中文": 16,
+    "卫视": 4,
+    "央视": 31,
+    "海外": 93,
+    "港澳台": 13
+  },
+  "published_category_counts": {
+    "央视": 31,
+    "卫视": 4,
+    "港澳台": 13,
+    "海外": 93,
+    "其他中文": 16
+  },
+  "category_status": {
+    "央视": {
+      "current_passed": 31,
+      "playlist_count": 31,
+      "last_success_utc": "2026-11-08T01:36:50Z",
+      "stale": false,
+      "hold_reason": "",
+      "missing": false
+    },
+    "卫视": {
+      "current_passed": 4,
+      "playlist_count": 4,
+      "last_success_utc": "2026-11-08T01:36:50Z",
+      "stale": false,
+      "hold_reason": "",
+      "missing": false
+    },
+    "港澳台": {
+      "current_passed": 13,
+      "playlist_count": 13,
+      "last_success_utc": "2026-11-08T01:36:50Z",
+      "stale": false,
+      "hold_reason": "",
+      "missing": false
+    },
+    "海外": {
+      "current_passed": 93,
+      "playlist_count": 93,
+      "last_success_utc": "2026-11-08T01:36:50Z",
+      "stale": false,
+      "hold_reason": "",
+      "missing": false
+    },
+    "其他中文": {
+      "current_passed": 16,
+      "playlist_count": 16,
+      "last_success_utc": "2026-11-08T01:36:50Z",
+      "stale": false,
+      "hold_reason": "",
+      "missing": false
+    }
+  },
+  "missing_categories": [],
+  "failure_reasons": {
+    "network_timeout": 57,
+    "network_error": 8,
+    "http_403": 37,
+    "http_567": 2,
+    "not_supported_media": 8,
+    "dns_error": 11,
+    "http_404": 15,
+    "http_500": 1,
+    "http_400": 2,
+    "encrypted_stream_skipped": 28,
+    "no_video_stream": 1,
+    "http_502": 1
+  },
+  "sources": [
+    {
+      "name": "Chinese language",
+      "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+      "region": "CN",
+      "ok": true,
+      "count": 223,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country AU",
+      "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
+      "region": "AU",
+      "ok": true,
+      "count": 77,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country CA",
+      "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+      "region": "CA",
+      "ok": true,
+      "count": 267,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country CN",
+      "url": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+      "region": "CN",
+      "ok": true,
+      "count": 151,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country DE",
+      "url": "https://iptv-org.github.io/iptv/countries/de.m3u",
+      "region": "DE",
+      "ok": true,
+      "count": 305,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country FR",
+      "url": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+      "region": "FR",
+      "ok": true,
+      "count": 203,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country HK",
+      "url": "https://iptv-org.github.io/iptv/countries/hk.m3u",
+      "region": "HK",
+      "ok": true,
+      "count": 18,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country JP",
+      "url": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+      "region": "JP",
+      "ok": true,
+      "count": 9,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country KR",
+      "url": "https://iptv-org.github.io/iptv/countries/kr.m3u",
+      "region": "KR",
+      "ok": true,
+      "count": 72,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country MO",
+      "url": "https://iptv-org.github.io/iptv/countries/mo.m3u",
+      "region": "MO",
+      "ok": true,
+      "count": 7,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country SG",
+      "url": "https://iptv-org.github.io/iptv/countries/sg.m3u",
+      "region": "SG",
+      "ok": true,
+      "count": 11,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country TW",
+      "url": "https://iptv-org.github.io/iptv/countries/tw.m3u",
+      "region": "TW",
+      "ok": true,
+      "count": 33,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country UK",
+      "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+      "region": "UK",
+      "ok": true,
+      "count": 306,
+      "rights": "unknown; community-listed URLs"
+    },
+    {
+      "name": "Country US",
+      "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+      "region": "US",
+      "ok": true,
+      "count": 1504,
+      "rights": "unknown; community-listed URLs"
+    }
+  ],
+  "verification": "A video frame decoded from a bounded media sample. Not a continuous playback, licensing, or user-network guarantee.",
+  "probe_location": "GitHub-hosted runner",
+  "rights_notice": "Community URLs; redistribution/viewing rights unknown unless independently verified. No media is stored or redistributed.",
+  "source_dependency": "All configured directories currently share iptv-org as upstream; they are not independent redundancy or a whole-web search."
+}
