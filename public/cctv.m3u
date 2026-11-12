@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-11-11T02:00:43Z
+# Generated UTC: 2026-11-12T03:10:53Z
 # Validation: one locally decoded video frame; playback depends on region and network.
 #EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="央视",CCTV-1 (720p)
 http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -21,6 +21,8 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="央视",CCTV-3 (720p)
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="央视",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="央视",CCTV-4 Asia (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="央视",CCTV-4 Europe
