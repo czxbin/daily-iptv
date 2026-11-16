@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated UTC: 2026-11-15T02:00:23Z
+# Generated UTC: 2026-11-16T02:16:50Z
 # Validation: one locally decoded video frame; playback depends on region and network.
 #EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="央视",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
