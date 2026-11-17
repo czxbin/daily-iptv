@@ -1,15 +1,5 @@
 [
   {
-    "name": "CCTV+ 1 (600p) [Not 24/7]",
-    "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8",
-    "tvg_id": "CCTVPlus1.cn@SD",
-    "logo": "https://i.imgur.com/U8d4Is6.png",
-    "category": "央视",
-    "region": "CN",
-    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
     "name": "CCTV+ 2 (600p) [Not 24/7]",
     "url": "https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8",
     "tvg_id": "CCTVPlus2.cn@SD",
@@ -147,6 +137,16 @@
     "category": "央视",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "CCTV-6 HD (1080p)",
+    "url": "http://69.30.245.50/live/cctv6.m3u8",
+    "tvg_id": "CCTV6.cn@HD",
+    "logo": "https://i.imgur.com/rFiaef7.png",
+    "category": "央视",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
@@ -420,16 +420,6 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "RTHK TV 31 (1080p) [Geo-blocked]",
-    "url": "https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8",
-    "tvg_id": "RTHKTV31.hk@SD",
-    "logo": "https://i.imgur.com/kf818kM.png",
-    "category": "港澳台",
-    "region": "HK",
-    "source": "https://iptv-org.github.io/iptv/countries/hk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
     "name": "Supreme Master TV (720p)",
     "url": "https://lbs-us1.suprememastertv.com/720p.m3u8",
     "tvg_id": "SupremeMasterTV.tw@SD",
@@ -480,16 +470,6 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "10 Bold (1080p)",
-    "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
-    "tvg_id": "10Bold.au@Sydney",
-    "logo": "https://i.imgur.com/2xglh33.png",
-    "category": "海外",
-    "region": "AU",
-    "source": "https://iptv-org.github.io/iptv/countries/au.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
     "name": "30A Golf Kingdom (720p)",
     "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
     "tvg_id": "30AGolfKingdom.us@SD",
@@ -500,139 +480,179 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "6ter (720p)",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8",
-    "tvg_id": "6ter.fr@SD",
-    "logo": "https://i.imgur.com/2nd5Cox.png",
-    "category": "海外",
-    "region": "FR",
-    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "AMP 1 (720p)",
-    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch1/video.m3u8",
-    "tvg_id": "AMP1.us@SD",
-    "logo": "https://i.imgur.com/3ZhrthD.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "AWE International (720p)",
-    "url": "https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8",
-    "tvg_id": "AWEInternational.us@SD",
-    "logo": "https://i.imgur.com/VhxtMUQ.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Atlanta Channel (720p)",
-    "url": "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8",
-    "tvg_id": "AtlantaChannel.us@SD",
-    "logo": "https://i.imgur.com/MOGQAns.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Atlas (480p)",
-    "url": "https://cdn.whiplash.cc/whiplash-atlas/index.m3u8",
-    "tvg_id": "Atlas.us@SD",
-    "logo": "https://whiplash.cc/assets/img/channels/atlas.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Augsburg TV (1080p)",
-    "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
-    "tvg_id": "AugsburgTV.de@SD",
-    "logo": "https://i.imgur.com/27AKMUL.png",
+    "name": "3sat",
+    "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+    "tvg_id": "3sat.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
     "category": "海外",
     "region": "DE",
     "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "BEK News (720p)",
-    "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8",
-    "tvg_id": "BEKNews.us@SD",
-    "logo": "https://i.imgur.com/m80uxdz.png",
+    "name": "AFTV (1080p)",
+    "url": "https://livestream.telvue.com/accframingham1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "AFTV.us@SD",
+    "logo": "https://i.imgur.com/UoiUwFj.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Bibel TV Impuls (720p)",
-    "url": "https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8",
-    "tvg_id": "BibelTVImpuls.de@SD",
-    "logo": "https://i.imgur.com/k4tbW3W.png",
+    "name": "Access Nashua (720p)",
+    "url": "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "AccessNashua.us@SD",
+    "logo": "https://i.imgur.com/iv9Vfcb.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "AccuWeather NOW (1080p)",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+    "tvg_id": "AccuWeatherNOW.us@SD",
+    "logo": "https://i.imgur.com/M8wbVYK.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Anger Management Channel (1080p)",
+    "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
+    "tvg_id": "AngerManagementChannel.us@SD",
+    "logo": "https://i.imgur.com/VXZgrNy.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Autentic Travel (1080p)",
+    "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+    "tvg_id": "AutenticTravel.de@SD",
+    "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/au.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Botflix TV (1080p)",
+    "url": "https://hls.botflix.tv/tv/index.m3u8",
+    "tvg_id": "BotflixTV.us@HD",
+    "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Brionnais TV (720p)",
+    "url": "https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8",
+    "tvg_id": "BrionnaisTV.fr@SD",
+    "logo": "https://i.imgur.com/y94bhqX.jpg",
+    "category": "海外",
+    "region": "FR",
+    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "C31 Melbourne (240p)",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+    "tvg_id": "C31Melbourne.au@SD",
+    "logo": "https://i.imgur.com/Ge1EutY.png",
+    "category": "海外",
+    "region": "AU",
+    "source": "https://iptv-org.github.io/iptv/countries/au.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "CC-TV (720p)",
+    "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8",
+    "tvg_id": "CCTV.us@SD",
+    "logo": "",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "CMTV (720p)",
+    "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8",
+    "tvg_id": "CMTV.us@SD",
+    "logo": "https://i.imgur.com/73LKwAK.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Cannes Lerins TV (1080p)",
+    "url": "https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8",
+    "tvg_id": "CannesLerinsTV.fr@SD",
+    "logo": "https://i.imgur.com/atlgnum.png",
+    "category": "海外",
+    "region": "FR",
+    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Cartoon Network (Japan) HD",
+    "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying",
+    "tvg_id": "CartoonNetwork.jp@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "category": "海外",
+    "region": "JP",
+    "source": "https://iptv-org.github.io/iptv/countries/jp.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Celebrity Scene TV (720p)",
+    "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8",
+    "tvg_id": "CelebritySceneTV.us@SD",
+    "logo": "https://i.imgur.com/n36jriB.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Chasse & Peche (540p)",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8",
+    "tvg_id": "ChassePeche.fr@SD",
+    "logo": "https://i.imgur.com/ZIS2ZQ1.png",
+    "category": "海外",
+    "region": "FR",
+    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Cinevault Westerns (540p) [Geo-blocked]",
+    "url": "https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8",
+    "tvg_id": "CinevaultWesterns.us@SD",
+    "logo": "https://i.imgur.com/K1W137J.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Cira TV (1080p)",
+    "url": "https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8",
+    "tvg_id": "CiraTV.de@SD",
+    "logo": "https://i.imgur.com/YFnmSLW.png",
     "category": "海外",
     "region": "DE",
     "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Canal de la Fe (720p)",
-    "url": "https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/dad6a736-9efb-40ce-89b6-81d1d54f92bd/master.m3u8",
-    "tvg_id": "CanaldelaFe.us@SD",
-    "logo": "https://i.imgur.com/n3FffgF.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Cine Nanar (1080p)",
-    "url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
-    "tvg_id": "CineNanar.fr@SD",
-    "logo": "https://i.imgur.com/YnUZd3W.png",
-    "category": "海外",
-    "region": "FR",
-    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Cine Western (France) (1080p)",
-    "url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
-    "tvg_id": "CineWestern.fr@SD",
-    "logo": "https://i.imgur.com/tteOFkL.png",
-    "category": "海外",
-    "region": "FR",
-    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Cinemax Classics (1080p)",
-    "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
-    "tvg_id": "CinemaxClassics.us@East",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "City TV Channel 3/41 (360p)",
-    "url": "https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8",
-    "tvg_id": "CityTVChannel341.us@SD",
-    "logo": "https://i.imgur.com/L0vaDea.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "CityNews Edmonton",
-    "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-2Mbps.m3u8",
-    "tvg_id": "CityNewsEdmonton.ca@SD",
+    "name": "CityNews Toronto (720p)",
+    "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+    "tvg_id": "CityNewsToronto.ca@SD",
     "logo": "https://m.media-amazon.com/images/I/51Icdznow+L.png",
     "category": "海外",
     "region": "CA",
@@ -640,219 +660,199 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Comedy.TV (720p)",
-    "url": "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8",
-    "tvg_id": "ComedyTV.us@SD",
-    "logo": "https://i.imgur.com/KLfXnba.png",
+    "name": "Danger TV (720p)",
+    "url": "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8",
+    "tvg_id": "DangerTV.us@SD",
+    "logo": "https://i.imgur.com/4aTk45R.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Comercio TV (1080p)",
-    "url": "http://45.70.201.81:8000/play/a014/index.m3u8",
-    "tvg_id": "ComercioTV.us@SD",
-    "logo": "https://www.amagi.com/hubfs/Group%202-3.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Cooking Channel (720p)",
-    "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
-    "tvg_id": "CookingChannel.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cooking_Channel.svg/960px-Cooking_Channel.svg.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "DC Council Hearing Room 120 (1080p)",
-    "url": "https://video.oct.dc.gov/out/u/97_12.m3u8",
-    "tvg_id": "DCCouncilHearingRoom120.us@SD",
-    "logo": "https://i.imgur.com/8fljC7g.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Denver 8 TV (720p)",
-    "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8",
-    "tvg_id": "Denver8TV.us@SD",
-    "logo": "https://i.imgur.com/wMIy5jb.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Dog Whisperer (1080p) [Geo-blocked]",
-    "url": "https://pb-ffpxvjshv4rxx.akamaized.net/Dog_Whisperer_with_Cesar_Millan.m3u8",
-    "tvg_id": "DogWhisperer.us@UK",
-    "logo": "https://i.imgur.com/tgWypVJ.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Dog the Bounty Hunter UK (1080p)",
-    "url": "https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8",
-    "tvg_id": "DogtheBountyHunter.us@UK",
-    "logo": "https://i.imgur.com/lMICupK.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Dove Channel (1080p)",
-    "url": "https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8",
-    "tvg_id": "DoveChannel.us@SD",
-    "logo": "",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Duck Hunting TV (1080p)",
-    "url": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8",
-    "tvg_id": "DuckHuntingTV.us@SD",
-    "logo": "https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "F1 Channel (1080p) [Geo-blocked]",
-    "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
-    "tvg_id": "F1Channel.ie@US",
-    "logo": "https://i.imgur.com/cjXzWsI.png",
-    "category": "海外",
-    "region": "IE",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Faith World TV (1080p)",
-    "url": "https://faithworldtv.abs.tv/1826926230/index.m3u8",
-    "tvg_id": "FaithWorldTV.uk@SD",
-    "logo": "https://i.imgur.com/RLHRjQ3.png",
-    "category": "海外",
-    "region": "UK",
-    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Franceinfo (720p)",
-    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8",
-    "tvg_id": "Franceinfo.fr@SD",
-    "logo": "https://i.imgur.com/eITXz6A.png",
-    "category": "海外",
-    "region": "FR",
-    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "GB News (1080p)",
-    "url": "https://amg01076-lightningintern-gbnewsau-samsungau-et7fz.amagi.tv/playlist/amg01076-lightningintern-gbnewsau-samsungau/playlist.m3u8",
-    "tvg_id": "GBNews.uk@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png",
-    "category": "海外",
-    "region": "UK",
-    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Gillette Public Access Television Channel 190",
-    "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE/GilletteWYLIVE.m3u8",
-    "tvg_id": "GillettePublicAccessTelevisionChannel190.us@SD",
-    "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Gillette Public Access Television Channel 192",
-    "url": "https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8",
-    "tvg_id": "GillettePublicAccessTelevisionChannel192.us@SD",
-    "logo": "https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Global Fashion Channel (1080p)",
-    "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
-    "tvg_id": "GlobalFashionChannel.us@SD",
-    "logo": "https://i.imgur.com/s4eGYEP.jpg",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Gugak TV (1080p)",
-    "url": "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
-    "tvg_id": "GugakTV.kr@SD",
-    "logo": "https://i.imgur.com/Ey7Htm8.png",
-    "category": "海外",
-    "region": "KR",
-    "source": "https://iptv-org.github.io/iptv/countries/kr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "HLCG-DTV (360p) [Not 24/7]",
-    "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
-    "tvg_id": "HLCGDTV.kr@SD",
-    "logo": "https://i.imgur.com/ABdmZMc.png",
-    "category": "海外",
-    "region": "KR",
-    "source": "https://iptv-org.github.io/iptv/countries/kr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "HLDP-DTV (540p) [Not 24/7]",
-    "url": "https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8",
-    "tvg_id": "HLDPDTV.kr@SD",
-    "logo": "https://i.imgur.com/BBCoqIf.png",
-    "category": "海外",
-    "region": "KR",
-    "source": "https://iptv-org.github.io/iptv/countries/kr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "KOCT Channel 18 (720p)",
-    "url": "https://securestream10.champds.com/LIVE/KOCTCALIVE/KOCTCALIVE.m3u8",
-    "tvg_id": "KOCTChannel18.us@SD",
-    "logo": "https://i.imgur.com/6C71KwP.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "KaufBei TV (720p)",
-    "url": "https://elephant.t62a.com/hls/8103/index.m3u8",
-    "tvg_id": "KaufBeiTV.de@SD",
-    "logo": "https://i.imgur.com/CVJWiM0.png",
+    "name": "Deluxe Dance (1080p)",
+    "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+    "tvg_id": "DeluxeDance.de@SD",
+    "logo": "https://i.imgur.com/Qu7t15Y.png",
     "category": "海外",
     "region": "DE",
     "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Logos TV (Spain) (1080p) [Not 24/7]",
-    "url": "https://streamer1.streamhost.org/salive/logosH/master.m3u8",
-    "tvg_id": "LogosTV.es@SD",
+    "name": "Designated Survivor (1080p) [Geo-blocked]",
+    "url": "https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8",
+    "tvg_id": "DesignatedSurvivor.us@SD",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/6f31f52b-2b65-49eb-91e5-52e07edd1927/DesignatedSurvivor_Plex_1500x1000_Logo_Dark.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Dry Bar Comedy+ (720p)",
+    "url": "https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8",
+    "tvg_id": "DryBarComedyPlus.us@SD",
+    "logo": "https://i.imgur.com/3N2C60N.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "EWTN (United States) (720p) [Geo-blocked]",
+    "url": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8",
+    "tvg_id": "EWTN.us@English",
+    "logo": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Erfan Halgheh TV (720p)",
+    "url": "https://hls.erfanhalgheh.live/hls/stream.m3u8",
+    "tvg_id": "ErfanHalghehTV.ca@SD",
+    "logo": "https://i.ibb.co/mGC5BMR/erfan-halgheh-tv-au.png",
+    "category": "海外",
+    "region": "CA",
+    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Eurosport 2 Germany",
+    "url": "http://46.244.99.71:8181/stream/74/index.m3u8",
+    "tvg_id": "Eurosport2.fr@Germany",
+    "logo": "https://i.imgur.com/f56dHgR.png",
+    "category": "海外",
+    "region": "FR",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "GOD TV (576p)",
+    "url": "https://cdn.pishow.tv/ott/live/1391/master.m3u8",
+    "tvg_id": "GODTV.uk@SD",
+    "logo": "https://i.imgur.com/hW4g2oe.png",
+    "category": "海外",
+    "region": "UK",
+    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Gravitas Movies (1080p)",
+    "url": "https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8",
+    "tvg_id": "GravitasMovies.us@SD",
+    "logo": "https://i.imgur.com/H2hD4vT.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Grjngo Western Movies (720p)",
+    "url": "https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8",
+    "tvg_id": "GrjngoWesternMovies.de@SD",
+    "logo": "https://i.imgur.com/wFqhK3p.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "GunAz TV",
+    "url": "https://tv.gunaz.tv/hls/live.m3u8",
+    "tvg_id": "GunAzTV.us@SD",
+    "logo": "https://i.imgur.com/2ZnQazl.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "HLDH-DTV (1080p) [Not 24/7]",
+    "url": "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8",
+    "tvg_id": "HLDHDTV.kr@SD",
+    "logo": "https://i.imgur.com/Srsw4Mi.png",
+    "category": "海外",
+    "region": "KR",
+    "source": "https://iptv-org.github.io/iptv/countries/kr.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "HMI PROMZ NEWS (720p)",
+    "url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
+    "tvg_id": "HMIPROMZNEWS.us@SD",
+    "logo": "https://i.imgur.com/gwPaw3v.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "INTV Australia (720p)",
+    "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+    "tvg_id": "INTVAustralia.au@SD",
+    "logo": "https://i.imgur.com/1nJl0Pv.png",
+    "category": "海外",
+    "region": "AU",
+    "source": "https://iptv-org.github.io/iptv/countries/au.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "IraneFarda TV",
+    "url": "https://iranefardalive.com/stream/live.m3u8",
+    "tvg_id": "IraneFardaTV.uk@SD",
+    "logo": "https://i.imgur.com/ixgcgZY.png",
+    "category": "海外",
+    "region": "UK",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "KNino (1080p)",
+    "url": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "tvg_id": "KNino.us@SD",
+    "logo": "https://ipuntotv.com/IMAGES/Knino-logo.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Knowledge Network (720p) [Geo-blocked]",
+    "url": "https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8",
+    "tvg_id": "KnowledgeNetwork.ca@SD",
+    "logo": "https://i.imgur.com/VfofmZZ.png",
+    "category": "海外",
+    "region": "CA",
+    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "LLBN His Word (720p)",
+    "url": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8",
+    "tvg_id": "LLBNHisWord.us@SD",
+    "logo": "https://i.imgur.com/GbyHlS2.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "LLBN TV Chinese (480p)",
+    "url": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8",
+    "tvg_id": "LLBNTVChinese.us@SD",
+    "logo": "https://i.imgur.com/C0jUDMn.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Logos TV Kids (720p) [Not 24/7]",
+    "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+    "tvg_id": "LogosTVKids.es@SD",
     "logo": "https://i.imgur.com/Kr3U3Ub.png",
     "category": "海外",
     "region": "ES",
@@ -860,340 +860,470 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "MC TV (720p)",
-    "url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live",
-    "tvg_id": "MCTV.de@HD",
-    "logo": "https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png",
-    "category": "海外",
-    "region": "DE",
-    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "MRVTV Channel 44 (720p)",
-    "url": "https://livestream.telvue.com/madrivervalleytv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-    "tvg_id": "MRVTVChannel44.us@SD",
-    "logo": "https://i.imgur.com/QZcENP2.png",
+    "name": "MBC 1 USA (1080p) [Geo-blocked]",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8",
+    "tvg_id": "MBC1USA.us@SD",
+    "logo": "https://i.imgur.com/CiA3plN.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "MTV Pluto TV",
-    "url": "https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8",
-    "tvg_id": "MTVPlutoTV.us@US",
-    "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
+    "name": "MCN6 Music Channel (1080p) [Not 24/7]",
+    "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
+    "tvg_id": "MCN6MusicChannel.us@SD",
+    "logo": "https://i.imgur.com/j6IiysJ.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Magnificent Movies Network",
-    "url": "https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8",
-    "tvg_id": "MagnificentMoviesNetwork.us@SD",
-    "logo": "https://i.imgur.com/CXjo8kn.png",
+    "name": "MTA8 America (1080p)",
+    "url": "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8",
+    "tvg_id": "MTA8America.uk@SD",
+    "logo": "https://i.imgur.com/CF6X9wB.png",
+    "category": "海外",
+    "region": "UK",
+    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "MTV (United States) (1080p)",
+    "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8",
+    "tvg_id": "MTV.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Maverick Black Cinema (1080p)",
-    "url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8",
-    "tvg_id": "MaverickBlackCinema.us@SD",
-    "logo": "https://images.fubo.tv/station_logos/maverick_black_cinema_c.png",
+    "name": "Metaleitor TV",
+    "url": "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8",
+    "tvg_id": "MetaleitorTV.us@SD",
+    "logo": "https://new.opencaster.com/uploads/logos/logo_14_1752798826.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Merit Street (1080p)",
-    "url": "https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8",
-    "tvg_id": "MeritStreet.us@SD",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1d/Merit_Street_Media_2024_1.svg/revision/latest/scale-to-width-down/512",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Newsmax Spanish (1080p)",
-    "url": "https://n1ottesorkatv.akamaized.net/hls/live/2113795/Live_1/index.m3u8",
-    "tvg_id": "NewsmaxSpanish.us@SD",
-    "logo": "https://i.imgur.com/mrXMW7H.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Olelo 53 (720p)",
-    "url": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8",
-    "tvg_id": "Olelo53.us@SD",
-    "logo": "https://i.imgur.com/xDuUrj9.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "OnTV4U (1080p)",
-    "url": "https://ontv4u-orka.b-cdn.net/ONTV4U-ORKA/index.m3u8",
-    "tvg_id": "OnTV4U.us@SD",
-    "logo": "https://i.imgur.com/yaCK1Mh.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "PBS Nature (1080p)",
-    "url": "https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8",
-    "tvg_id": "PBSNature.us@SD",
-    "logo": "https://i.imgur.com/Brry7cZ.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Perry Mason",
-    "url": "https://jmp2.uk/plu-6197086891ddd4000739941a.m3u8",
-    "tvg_id": "PerryMason.us@SD",
-    "logo": "https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Puto TV Classic TV Crime Drama",
-    "url": "https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8",
-    "tvg_id": "PutoTVClassicTVCrimeDrama.us@CA",
-    "logo": "https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "RBW (1080p)",
-    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
-    "tvg_id": "RBW.de@SD",
-    "logo": "https://i.imgur.com/A0UKdix.png",
-    "category": "海外",
-    "region": "DE",
-    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "RMC Decouverte (1080p)",
-    "url": "https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8",
-    "tvg_id": "RMCDecouverte.fr@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png",
+    "name": "Mezzo Live (1080p)",
+    "url": "http://stream.mcquack.net/276/index.m3u8",
+    "tvg_id": "MezzoLive.fr@SD",
+    "logo": "https://i.imgur.com/H9ytKPN.png",
     "category": "海外",
     "region": "FR",
     "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "RVTV Civic (720p)",
-    "url": "https://livestream.telvue.com/roguevalleycmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-    "tvg_id": "RVTVCivic.us@SD",
-    "logo": "https://i.imgur.com/cTLhQjo.png",
+    "name": "Moonbug Kids (1080p)",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "tvg_id": "MoonbugKids.uk@SD",
+    "logo": "https://i.imgur.com/vZHtxQb.png",
+    "category": "海外",
+    "region": "UK",
+    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "MyTime Movie Network East (1080p)",
+    "url": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8",
+    "tvg_id": "MyTimeMovieNetworkEast.us@SD",
+    "logo": "https://i.imgur.com/HYgxPVQ.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "RVTV Prime (720p)",
-    "url": "https://livestream.telvue.com/roguevalleycmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-    "tvg_id": "RVTVPrime.us@SD",
-    "logo": "https://i.imgur.com/0Qd9Ic7.png",
+    "name": "NBA TV (720p)",
+    "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
+    "tvg_id": "NBATV.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Red Apple 21 (480p) [Not 24/7]",
-    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8",
-    "tvg_id": "RedApple21.us@SD",
-    "logo": "https://i.imgur.com/ICcQUCH.png",
+    "name": "NBC Sports NOW (1080p)",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008",
+    "tvg_id": "NBCSportsNOW.us@SD",
+    "logo": "https://i.imgur.com/EzNf2Yx.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "RiC.today",
-    "url": "http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8",
-    "tvg_id": "RiCtoday.de@HD",
+    "name": "NTD TV (1080p)",
+    "url": "https://ntd02.akamaized.net/HD-NY/index.m3u8",
+    "tvg_id": "NTDTV.us@East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NTD_Logo_with_symbol.svg/960px-NTD_Logo_with_symbol.svg.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Nick/Comedy Central +1",
+    "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+    "tvg_id": "NickComedyCentralPlus1.de@SD",
+    "logo": "https://i.imgur.com/08ZUI9k.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Niederbayern TV Deggendorf & Straubing (1080p)",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8",
+    "tvg_id": "NiederbayernTVDeggendorfStraubing.de@SD",
+    "logo": "https://i.imgur.com/mAaIh3C.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Niederbayern TV Landshut (1080p)",
+    "url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8",
+    "tvg_id": "NiederbayernTVLandshut.de@SD",
+    "logo": "https://i.imgur.com/5sHzZAh.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "OCN TV",
+    "url": "https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8",
+    "tvg_id": "OCNTV.us@SD",
+    "logo": "https://i.imgur.com/iSB5Obl.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "OK Merseburg-Querfurt (1080p) [Not 24/7]",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8",
+    "tvg_id": "OKMerseburgQuerfurt.de@SD",
+    "logo": "https://i.imgur.com/QfzdESc.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Omid e Iran TV",
+    "url": "https://oitnhls.wns.live/hls/stream.m3u8",
+    "tvg_id": "OmideIranTV.us@SD",
+    "logo": "https://i.imgur.com/CeMf68L.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Outdoor Channel HD (720p)",
+    "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
+    "tvg_id": "OutdoorChannel.us@HD",
+    "logo": "https://i.imgur.com/Kh4MWaY.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "OuterSphere (1080p)",
+    "url": "https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8",
+    "tvg_id": "OuterSphere.us@SD",
+    "logo": "https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Payame Aramesh TV (720p)",
+    "url": "https://hls.keshishhamid.live/hls/stream.m3u8",
+    "tvg_id": "PayameArameshTV.us@SD",
+    "logo": "https://i.imgur.com/WaPr0t0.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Payvand TV (United States) (720p)",
+    "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8",
+    "tvg_id": "PayvandTV.us@SD",
+    "logo": "https://i.imgur.com/A4gqEmG.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "ProSieben Maxx (576p)",
+    "url": "https://s6.hopslan.com/pro7maxxX/index.m3u8",
+    "tvg_id": "ProSiebenMaxx.de@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/960px-ProSieben_MAXX_Logo.svg.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Quo Vadis TV (720p)",
+    "url": "https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8",
+    "tvg_id": "QuoVadisTV.ca@SD",
+    "logo": "https://i.imgur.com/pEqDDHl.png",
+    "category": "海外",
+    "region": "CA",
+    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "RTL (Germany)",
+    "url": "https://dash4.antik.sk/live/test_rtl_ger_tizen/playlist.m3u8",
+    "tvg_id": "RTL.de@SD",
+    "logo": "https://i.imgur.com/94K94k2.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "RVTV Grants Pass (720p)",
+    "url": "https://livestream.telvue.com/roguevalleycmttv4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "RVTVGrantsPass.us@SD",
+    "logo": "https://i.imgur.com/Vpv0P6t.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Radio y Television Marti (720p)",
+    "url": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8",
+    "tvg_id": "RadioyTelevisionMarti.us@SD",
+    "logo": "https://i.imgur.com/J2ZMa4g.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Red Bull TV UK (1080p)",
+    "url": "https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8",
+    "tvg_id": "RedBullTV.at@UK",
+    "logo": "https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png",
+    "category": "海外",
+    "region": "AT",
+    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "SPTV (360p)",
+    "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
+    "tvg_id": "SPTV.us@SD",
+    "logo": "https://i.imgur.com/fl8I3cg.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Sachsen Eins (1080p)",
+    "url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+    "tvg_id": "SachsenEins.de@SD",
+    "logo": "https://i.imgur.com/2EXNdd8.png",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Seenluft24 (1080p)",
+    "url": "https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=",
+    "tvg_id": "Seenluft24.de@SD",
+    "logo": "https://i.imgur.com/3TgBg9v.jpg",
+    "category": "海外",
+    "region": "DE",
+    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Stingray Holiday Hits (1080p)",
+    "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "tvg_id": "StingrayHolidayHits.ca@SD",
+    "logo": "https://i.imgur.com/4xVVKH8.png",
+    "category": "海外",
+    "region": "CA",
+    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "TBN Pacific",
+    "url": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8",
+    "tvg_id": "TBNPacific.us@SD",
+    "logo": "https://i.imgur.com/yWJTxKk.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "TSN The Ocho (1080p)",
+    "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+    "tvg_id": "TSNTheOcho.ca@SD",
+    "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
+    "category": "海外",
+    "region": "CA",
+    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "TV Hispanic [Not 24/7]",
+    "url": "https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8",
+    "tvg_id": "TVHispanic.us@SD",
+    "logo": "https://i.imgur.com/eThe0io.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "TVS Boxing (360p)",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+    "tvg_id": "TVSBoxing.us@SD",
+    "logo": "https://i.imgur.com/30ZoF75.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "TVS Mainstreet (360p) [Not 24/7]",
+    "url": "https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
+    "tvg_id": "TVSMainstreet.us@SD",
+    "logo": "https://i.imgur.com/N9nQpnP.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Tastemade (1080p)",
+    "url": "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8",
+    "tvg_id": "Tastemade.us@US",
+    "logo": "https://i.imgur.com/xP7Ehn8.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Tele Boston (480p)",
+    "url": "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8",
+    "tvg_id": "TeleBoston.us@SD",
+    "logo": "https://i.imgur.com/xeTtup8.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Teva (720p)",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/teva/live.livx/playlist.m3u8",
+    "tvg_id": "Teva.fr@SD",
+    "logo": "https://i.imgur.com/kDW0hN5.png",
+    "category": "海外",
+    "region": "FR",
+    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "The City of Marina (720p)",
+    "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch4/video.m3u8",
+    "tvg_id": "TheCityofMarina.us@SD",
+    "logo": "https://i.imgur.com/ldyanxN.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "The Weather Channel (1080p)",
+    "url": "https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8",
+    "tvg_id": "TheWeatherChannel.us@SD",
+    "logo": "https://i.imgur.com/PIaNjfa.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Totalmusic 2000s (720p)",
+    "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8",
+    "tvg_id": "Totalmusic2000s.uk@HD",
     "logo": "",
     "category": "海外",
-    "region": "DE",
-    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Salem News Channel (1080p)",
-    "url": "https://amg00732-salemmediagroup-snc-ono-ekp8j.amagi.tv/playlist/amg00732-salemmediagroup-snc-ono/playlist.m3u8",
-    "tvg_id": "SalemNewsChannel.us@SD",
-    "logo": "https://i.imgur.com/aDbc64y.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Scientology Network (1080p)",
-    "url": "https://stream6.scientology.org/master.m3u8",
-    "tvg_id": "ScientologyNetwork.us@SD",
-    "logo": "https://i.imgur.com/HOYF8NA.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Smart LifeStyle TV (720p)",
-    "url": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8",
-    "tvg_id": "SmartLifeStyleTV.us@SD",
-    "logo": "https://i.imgur.com/kHFlTEy.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Stingray Today's K-Pop (1080p)",
-    "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
-    "tvg_id": "StingrayTodaysKPop.ca@SD",
-    "logo": "https://i.imgur.com/mMbntB5.png",
-    "category": "海外",
-    "region": "CA",
-    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TAG TV (1080p) [Not 24/7]",
-    "url": "http://cdn11.live247stream.com/tag/tv/playlist.m3u8",
-    "tvg_id": "TAGTV.ca@SD",
-    "logo": "https://i.imgur.com/4PA2adF.png",
-    "category": "海外",
-    "region": "CA",
-    "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TBS TV (720p)",
-    "url": "https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8",
-    "tvg_id": "TBSTV.kr@SD",
-    "logo": "https://i.imgur.com/iOnWS6V.png",
-    "category": "海外",
-    "region": "KR",
-    "source": "https://iptv-org.github.io/iptv/countries/kr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TUDN (United States) (1080p) [Geo-blocked]",
-    "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8",
-    "tvg_id": "TUDN.us@SD",
-    "logo": "https://i.imgur.com/oT5CAvd.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TV Mulhouse (1080p)",
-    "url": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8",
-    "tvg_id": "TVMulhouse.fr@HD",
-    "logo": "https://academie.kasumay.international/ico/radiomulhouse.png",
-    "category": "海外",
-    "region": "FR",
-    "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TVS Classic Movies (288p)",
-    "url": "https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
-    "tvg_id": "TVSClassicMovies.us@SD",
-    "logo": "https://i.imgur.com/st1xMsw.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TVS Classic Sports (360p)",
-    "url": "https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8",
-    "tvg_id": "TVSClassicSports.us@SD",
-    "logo": "https://i.imgur.com/auR0Mi6.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "TVS Quiz Show Network (720p)",
-    "url": "https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8",
-    "tvg_id": "TVSQuizShowNetwork.us@SD",
-    "logo": "https://i.imgur.com/5ljQwx2.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Teletubbies (720p)",
-    "url": "https://dv8lsrd8fecw9.cloudfront.net/master.m3u8",
-    "tvg_id": "Teletubbies.uk@SD",
-    "logo": "https://i.imgur.com/J9iWjWL.png",
-    "category": "海外",
     "region": "UK",
     "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "The Nanny",
-    "url": "https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8",
-    "tvg_id": "TheNanny.us@UK",
-    "logo": "https://i.imgur.com/1caOriu.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Utsav Bharat (720p)",
-    "url": "https://d1taaads3ztvmu.cloudfront.net/120723/smil:lifeokuk.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-    "tvg_id": "UtsavBharat.uk@SD",
-    "logo": "https://i.imgur.com/IQ2n0WY.png",
-    "category": "海外",
-    "region": "UK",
-    "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Vevo Latino (1080p)",
-    "url": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8",
-    "tvg_id": "VevoLatino.us@SD",
-    "logo": "https://i.imgur.com/D7SwmuB.png",
+    "name": "Tribeca Channel (1080p) [Geo-blocked]",
+    "url": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8",
+    "tvg_id": "TribecaChannel.us@SD",
+    "logo": "https://i.imgur.com/JCpFAll.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "WLMB (1080p)",
-    "url": "https://rpn.bozztv.com/wlmb/wlmb/wlmb/index.m3u8",
-    "tvg_id": "WLMB.us@SD",
-    "logo": "https://i.imgur.com/KeELZ1Y.png",
+    "name": "True Crime Network (1080p) [Geo-blocked]",
+    "url": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8",
+    "tvg_id": "TrueCrimeNetwork.us@SD",
+    "logo": "https://www.truecrimenetworktv.com/sites/all/themes/jntheme/images/tcnetwork-logo-main.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "VICE TV (1080p)",
+    "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
+    "tvg_id": "VICETV.us@SD",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "WOX TV (1080p)",
+    "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
+    "tvg_id": "WOXTV.us@SD",
+    "logo": "https://image.roku.com/developer_channels/prod/7e6a7c4835ec344de629865f7a36feb4058001e7a3d9bc8dd0d1f3dc8e754cd7.png",
+    "category": "海外",
+    "region": "US",
+    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "WVVH-CD 18.1 (720p)",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8",
+    "tvg_id": "WVVHCD181.us@HD",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3f/WVVH-CD_logo.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
@@ -1210,63 +1340,13 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Wu Tang Collection (720p)",
-    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745",
-    "tvg_id": "WuTangCollection.us@SD",
-    "logo": "https://i.imgur.com/sz55sBl.png",
+    "name": "Yuma Channel 72 (1080p)",
+    "url": "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "tvg_id": "YumaChannel72.us@SD",
+    "logo": "https://i.imgur.com/QsFBCWv.png",
     "category": "海外",
     "region": "US",
     "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Yes Network (720p)",
-    "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
-    "tvg_id": "YesNetwork.us@SD",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Yu-Gi-Oh! en espanol (1080p)",
-    "url": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8",
-    "tvg_id": "YuGiOhenespanol.us@SD",
-    "logo": "https://i.imgur.com/VH8RiHg.png",
-    "category": "海外",
-    "region": "US",
-    "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Zwei Music Television",
-    "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
-    "tvg_id": "ZweiMusicTelevision.de@SD",
-    "logo": "https://i.imgur.com/RbdpCNf.png",
-    "category": "海外",
-    "region": "DE",
-    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "arte (Germany) HD",
-    "url": "https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8",
-    "tvg_id": "arte.de@HD",
-    "logo": "https://i.imgur.com/ecXMjNl.png",
-    "category": "海外",
-    "region": "DE",
-    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "kabel eins",
-    "url": "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8",
-    "tvg_id": "kabeleins.de@SD",
-    "logo": "https://i.imgur.com/6pulSHZ.png",
-    "category": "海外",
-    "region": "DE",
-    "source": "https://iptv-org.github.io/iptv/countries/de.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
@@ -1280,26 +1360,6 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Ando TV (1080p)",
-    "url": "http://play.kankanlive.com/live/1711956137852982.m3u8",
-    "tvg_id": "AndoTV.cn@SD",
-    "logo": "https://i.imgur.com/EpTsFVu.png",
-    "category": "其他中文",
-    "region": "CN",
-    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
-    "name": "Bread TV (720p)",
-    "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
-    "tvg_id": "BreadTV.cn@SD",
-    "logo": "https://bread-tv.com/uploads/allimg/241202/9_1836542371.png",
-    "category": "其他中文",
-    "region": "CN",
-    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
-    "rights": "unknown; community-listed public endpoint, not a license grant"
-  },
-  {
     "name": "CGTN (1080p)",
     "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
     "tvg_id": "CGTN.cn@SD",
@@ -1310,13 +1370,33 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Discovering China (1080p)",
-    "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
-    "tvg_id": "DiscoveringChina.cn@SD",
-    "logo": "https://i.imgur.com/wr2bLaA.png",
+    "name": "China Travel (1080p)",
+    "url": "https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8",
+    "tvg_id": "ChinaTravel.cn@SD",
+    "logo": "https://i.imgur.com/vSgY3CD.png",
     "category": "其他中文",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/languages/zho.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Chuxiong News Channel [Not 24/7]",
+    "url": "http://hwapi.yntv.net/ew265l/848y54.m3u8",
+    "tvg_id": "ChuxiongNewsChannel.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/chuxiongtv.jpg",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Guangxi Variety & Travel Channel",
+    "url": "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1",
+    "tvg_id": "GuangxiVarietyTravelChannel.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/gxzypd.jpg",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
@@ -1324,6 +1404,16 @@
     "url": "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8",
     "tvg_id": "GuangzhouTV.cn@SD",
     "logo": "https://i.imgur.com/ff3KQXp.png",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Harbin Movie Channel",
+    "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
+    "tvg_id": "HarbinMovieChannel.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
     "category": "其他中文",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
@@ -1340,10 +1430,10 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Lanzhou Culture & Tourism Channel",
-    "url": "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8",
-    "tvg_id": "LanzhouCultureTourismChannel.cn@SD",
-    "logo": "https://www.tvchinese.net/uploads/tv/lanzhou.jpg",
+    "name": "Lanzhou Comprehensive News Channel",
+    "url": "https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8",
+    "tvg_id": "LanzhouComprehensiveNewsChannel.cn@SD",
+    "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662",
     "category": "其他中文",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
@@ -1354,6 +1444,16 @@
     "url": "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
     "tvg_id": "NeiMonggolTV.cn@SD",
     "logo": "https://i.imgur.com/WeugJBE.png",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Siping TV",
+    "url": "http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598",
+    "tvg_id": "SipingTV.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/sptv1.jpg",
     "category": "其他中文",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
@@ -1390,10 +1490,20 @@
     "rights": "unknown; community-listed public endpoint, not a license grant"
   },
   {
-    "name": "Xizang TV Tibetan",
-    "url": "https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8",
-    "tvg_id": "XizangTVTibetan.cn@SD",
-    "logo": "https://i.imgur.com/NtvfnVV.png",
+    "name": "Xizang TV Chinese",
+    "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8",
+    "tvg_id": "XizangTVChinese.cn@SD",
+    "logo": "https://i.imgur.com/V0v3ST5.png",
+    "category": "其他中文",
+    "region": "CN",
+    "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
+    "rights": "unknown; community-listed public endpoint, not a license grant"
+  },
+  {
+    "name": "Yichang Sanxia General Channel",
+    "url": "https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8",
+    "tvg_id": "YichangSanxiaGeneralChannel.cn@SD",
+    "logo": "https://www.tvchinese.net/uploads/tv/ycsxggpd.jpg",
     "category": "其他中文",
     "region": "CN",
     "source": "https://iptv-org.github.io/iptv/countries/cn.m3u",
