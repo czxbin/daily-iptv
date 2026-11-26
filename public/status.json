@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "checked_at_utc": "2026-11-25T04:57:52Z",
-  "last_success_utc": "2026-11-25T04:57:52Z",
+  "checked_at_utc": "2026-11-26T04:15:14Z",
+  "last_success_utc": "2026-11-26T04:15:14Z",
   "published": true,
   "stale": false,
   "hold_reason": "",
-  "discovered_unique": 2978,
+  "discovered_unique": 2971,
   "tested": 328,
-  "passed": 159,
-  "playlist_count": 159,
+  "passed": 156,
+  "playlist_count": 156,
   "category_counts": {
-    "其他中文": 11,
+    "其他中文": 12,
     "卫视": 5,
-    "央视": 31,
-    "海外": 101,
-    "港澳台": 11
+    "央视": 32,
+    "海外": 93,
+    "港澳台": 14
   },
   "published_category_counts": {
-    "央视": 31,
+    "央视": 32,
     "卫视": 5,
-    "港澳台": 11,
-    "海外": 101,
-    "其他中文": 11
+    "港澳台": 14,
+    "海外": 93,
+    "其他中文": 12
   },
   "category_status": {
     "央视": {
-      "current_passed": 31,
-      "playlist_count": 31,
-      "last_success_utc": "2026-11-25T04:57:52Z",
+      "current_passed": 32,
+      "playlist_count": 32,
+      "last_success_utc": "2026-11-26T04:15:14Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -35,31 +35,31 @@
     "卫视": {
       "current_passed": 5,
       "playlist_count": 5,
-      "last_success_utc": "2026-11-25T04:57:52Z",
+      "last_success_utc": "2026-11-26T04:15:14Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "港澳台": {
-      "current_passed": 11,
-      "playlist_count": 11,
-      "last_success_utc": "2026-11-25T04:57:52Z",
+      "current_passed": 14,
+      "playlist_count": 14,
+      "last_success_utc": "2026-11-26T04:15:14Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "海外": {
-      "current_passed": 101,
-      "playlist_count": 101,
-      "last_success_utc": "2026-11-25T04:57:52Z",
+      "current_passed": 93,
+      "playlist_count": 93,
+      "last_success_utc": "2026-11-26T04:15:14Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "其他中文": {
-      "current_passed": 11,
-      "playlist_count": 11,
-      "last_success_utc": "2026-11-25T04:57:52Z",
+      "current_passed": 12,
+      "playlist_count": 12,
+      "last_success_utc": "2026-11-26T04:15:14Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -68,17 +68,17 @@
   "missing_categories": [],
   "failure_reasons": {
     "network_timeout": 65,
-    "http_403": 30,
-    "not_supported_media": 12,
-    "network_error": 5,
-    "http_502": 1,
+    "http_403": 32,
+    "not_supported_media": 10,
+    "network_error": 7,
     "http_567": 3,
-    "dns_error": 9,
-    "http_404": 5,
-    "http_500": 1,
-    "encrypted_stream_skipped": 35,
-    "http_503": 1,
+    "dns_error": 12,
+    "http_404": 9,
+    "http_500": 2,
+    "video_decode_failed": 2,
+    "encrypted_stream_skipped": 27,
     "empty_hls": 1,
+    "too_many_redirects": 1,
     "http_400": 1
   },
   "sources": [
@@ -95,7 +95,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/au.m3u",
       "region": "AU",
       "ok": true,
-      "count": 78,
+      "count": 80,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -103,7 +103,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/ca.m3u",
       "region": "CA",
       "ok": true,
-      "count": 265,
+      "count": 262,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -119,7 +119,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/de.m3u",
       "region": "DE",
       "ok": true,
-      "count": 303,
+      "count": 302,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -183,7 +183,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/uk.m3u",
       "region": "UK",
       "ok": true,
-      "count": 302,
+      "count": 301,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -191,7 +191,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "region": "US",
       "ok": true,
-      "count": 1538,
+      "count": 1531,
       "rights": "unknown; community-listed URLs"
     }
   ],
