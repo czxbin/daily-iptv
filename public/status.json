@@ -1,33 +1,33 @@
 {
   "schema_version": 1,
-  "checked_at_utc": "2026-11-26T04:15:14Z",
-  "last_success_utc": "2026-11-26T04:15:14Z",
+  "checked_at_utc": "2026-11-27T04:21:53Z",
+  "last_success_utc": "2026-11-27T04:21:53Z",
   "published": true,
   "stale": false,
   "hold_reason": "",
-  "discovered_unique": 2971,
+  "discovered_unique": 2951,
   "tested": 328,
-  "passed": 156,
-  "playlist_count": 156,
+  "passed": 145,
+  "playlist_count": 145,
   "category_counts": {
-    "其他中文": 12,
+    "其他中文": 13,
     "卫视": 5,
     "央视": 32,
-    "海外": 93,
-    "港澳台": 14
+    "海外": 82,
+    "港澳台": 13
   },
   "published_category_counts": {
     "央视": 32,
     "卫视": 5,
-    "港澳台": 14,
-    "海外": 93,
-    "其他中文": 12
+    "港澳台": 13,
+    "海外": 82,
+    "其他中文": 13
   },
   "category_status": {
     "央视": {
       "current_passed": 32,
       "playlist_count": 32,
-      "last_success_utc": "2026-11-26T04:15:14Z",
+      "last_success_utc": "2026-11-27T04:21:53Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -35,31 +35,31 @@
     "卫视": {
       "current_passed": 5,
       "playlist_count": 5,
-      "last_success_utc": "2026-11-26T04:15:14Z",
+      "last_success_utc": "2026-11-27T04:21:53Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "港澳台": {
-      "current_passed": 14,
-      "playlist_count": 14,
-      "last_success_utc": "2026-11-26T04:15:14Z",
+      "current_passed": 13,
+      "playlist_count": 13,
+      "last_success_utc": "2026-11-27T04:21:53Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "海外": {
-      "current_passed": 93,
-      "playlist_count": 93,
-      "last_success_utc": "2026-11-26T04:15:14Z",
+      "current_passed": 82,
+      "playlist_count": 82,
+      "last_success_utc": "2026-11-27T04:21:53Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
     },
     "其他中文": {
-      "current_passed": 12,
-      "playlist_count": 12,
-      "last_success_utc": "2026-11-26T04:15:14Z",
+      "current_passed": 13,
+      "playlist_count": 13,
+      "last_success_utc": "2026-11-27T04:21:53Z",
       "stale": false,
       "hold_reason": "",
       "missing": false
@@ -67,18 +67,18 @@
   },
   "missing_categories": [],
   "failure_reasons": {
-    "network_timeout": 65,
-    "http_403": 32,
-    "not_supported_media": 10,
-    "network_error": 7,
+    "network_timeout": 62,
+    "http_403": 40,
+    "not_supported_media": 8,
     "http_567": 3,
-    "dns_error": 12,
-    "http_404": 9,
-    "http_500": 2,
-    "video_decode_failed": 2,
-    "encrypted_stream_skipped": 27,
-    "empty_hls": 1,
+    "dns_timeout": 2,
+    "dns_error": 13,
+    "http_404": 15,
+    "http_500": 1,
     "too_many_redirects": 1,
+    "encrypted_stream_skipped": 31,
+    "network_error": 5,
+    "unsafe_url": 1,
     "http_400": 1
   },
   "sources": [
@@ -87,7 +87,7 @@
       "url": "https://iptv-org.github.io/iptv/languages/zho.m3u",
       "region": "CN",
       "ok": true,
-      "count": 222,
+      "count": 223,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -167,7 +167,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/sg.m3u",
       "region": "SG",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "rights": "unknown; community-listed URLs"
     },
     {
@@ -191,7 +191,7 @@
       "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
       "region": "US",
       "ok": true,
-      "count": 1531,
+      "count": 1510,
       "rights": "unknown; community-listed URLs"
     }
   ],
